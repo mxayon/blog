@@ -1,13 +1,15 @@
 <p align="center">
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's Blog</a> made on Indigo Jekyll Template </h2>
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's Blog</a> </h2>
+    <h2 align="center"> made on Indigo Jekyll Template </h2>
 </p>
 
 <p align="center">"Quick-Launch" Blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
 theme on
 <a href="https://jekyllrb.com"> Jekyll</a>
+<h3 align="center">Blog Author: <a href="https://mxnkpl.com"> Max Nakpil </a></h3>
 </p>
 
-<h3 align="center"><a href="https://mxnkpl.com"> Max Nakpil/a>
+
 ***
 
 <p align="center">
