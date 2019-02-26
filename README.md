@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">"Quick-Launch" Blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
-theme on Jekyll
+theme on
 <a href="https://jekyllrb.com"> Jekyll</a>
 </p>
 
@@ -21,7 +21,7 @@ theme on Jekyll
 </p>
 
 <p align="center">
-    <img src="images/screenshot.png" />
+    <img src="assets/images/screenshot.png"/>
 </p>
 
 ## Blog
