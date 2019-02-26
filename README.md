@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center" Max's blog made on Indigo Jekyll Template </h2>
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's Blog</a>made on Indigo Jekyll Template </h2>
     <h3 align="center"><a href="https://mxnkpl.com"> Max's Full Website</a>
 </p>
 
@@ -26,6 +26,8 @@ theme on
 
 ## Blog
 
+<a href="https://mxnkpl.com/blog/"> Max's Blog:</a>
+
 Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && directory of resources to help defeat Math-phobia.
 
 ## Max's Full Website?
@@ -37,7 +39,6 @@ Check<a href="https://mxnkpl.com"> Max's Full Website</a> for more projects and 
 - [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
 - Tests with [Travis](https://travis-ci.org/)
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
 
 ## Setup
 To use Indigo Theme:
