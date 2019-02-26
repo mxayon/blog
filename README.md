@@ -1,6 +1,5 @@
 <p align="center">
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's Blog</a>made on Indigo Jekyll Template </h2>
-    <h3 align="center"><a href="https://mxnkpl.com"> Max's Full Website</a>
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's Blog</a> made on Indigo Jekyll Template </h2>
 </p>
 
 <p align="center">"Quick-Launch" Blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
@@ -8,6 +7,7 @@ theme on
 <a href="https://jekyllrb.com"> Jekyll</a>
 </p>
 
+<h3 align="center"><a href="https://mxnkpl.com"> Max Nakpil/a>
 ***
 
 <p align="center">
