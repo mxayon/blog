@@ -3,23 +3,34 @@
     <h3 align="center"><a href="https://mxnkpl.com"> Max's Full Website</a>
 </p>
 
-<p align="center">"Quick-Launch" Blog powered by the Indigo theme on Jekyll</p>
+<p align="center">"Quick-Launch" Blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
+theme on Jekyll
+<a href="https://jekyllrb.com"> Jekyll</a>
+</p>
 
 ***
 
 <p align="center">
+    <b><a href="README.md#blog">About Max's Blog</a></b>
+    |
+    <b><a href="README.md#m">Max's Website</a></b>
+    |
     <b><a href="README.md#about-indigo">About Indigo & Jekyll</a></b>
     |
     <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#max">Max's Blog</a></b>
-    |
-    <b><a href="README.md#main">Main Website</a></b>
 </p>
 
 <p align="center">
     <img src="images/screenshot.png" />
 </p>
+
+## Blog
+
+Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && directory of resources to help defeat Math-phobia.
+
+## Max's Full Website?
+
+Check<a href="https://mxnkpl.com"> Max's Full Website</a> for more projects and information on author.
 
 ## About Indigo & Jekyll
 
@@ -37,7 +48,7 @@ To use Indigo Theme:
 
 If you want to test locally on your machine, do the following steps also:
 
-1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
+1. Install [Jekyll](https://jekyllrb.com/docs/), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
 1a. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
 2. Clone the forked repo on your machine
 3. Enter the cloned folder via terminal and run `bundle install`
@@ -56,13 +67,6 @@ picture: 'assets/images/profile.jpg'
 
 and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
 ```
-## Max's Blog
-
-Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && directory of resources to help defeat Math-phobia.
-
-## How To?
-
-Check<a href="https://mxnkpl.com"> Max's Full Website</a> for more projects and information on author.
 
 ---
 Indigo Theme © :
