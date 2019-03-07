@@ -1,5 +1,5 @@
 # main text of home
-name: Maxi Moe
+name: Maximo Nakpil
 bio: Relentless code mechanic and data detective
 
 # twitter summary info
@@ -22,7 +22,7 @@ url: https://mxnkpl.com/blog
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-MYANALYTICS'
+# analytics-google: 'UA-MYANALYTICS'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,32 +34,34 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: mxayon
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: mxayon
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: mxnakpil@gmail.com
 
 authors:
     maximonakpil:
         name: Max Nakpil
         bio: Relentless
         external-image: false
-        picture: assets/images/deepdream2.jpg
+        picture: assets/images/maxweb.png
         twitter: mxayon
+        github: mxayon
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -67,15 +69,15 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -87,7 +89,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [Home]
 
 # show author block at the end of a post ?
 show-author: true
@@ -101,6 +103,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
