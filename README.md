@@ -1,21 +1,16 @@
 <p align="center">
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a> is brought to you by the Indigo Theme on Jekyll Template</h2>
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a><br> is brought to you by the Indigo Theme on Jekyll Template</h2>
 </p>
 
-<p align="center">A "quick-Launch" blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
+<p align="center">A "quick-launch" blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
 theme on
 <a href="https://jekyllrb.com"> Jekyll</a>
 </p>
 
-
-***
-
 <p align="center">
-    <b><a href="README.md#blog">About Max's Blog</a></b>
+    <b><a href="README.md#blog">About Blog</a></b>
     |
-    <b><a href="README.md#m">Max's Website</a></b>
-    |
-    <b><a href="README.md#about-indigo">About Indigo & Jekyll</a></b>
+    <b><a href="https://mxnkpl.com">MXNKPL.COM</a></b>
     |
     <b><a href="README.md#setup">Setup</a></b>
 </p>
@@ -26,30 +21,26 @@ theme on
 
 ## Blog
 
-<a href="https://mxnkpl.com/blog/"> Blog:</a>
+<a href="https://mxnkpl.com/blog/"> About Blog:</a>
 
 Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && Directory of Resources to help defeat Math-Phobia.
 
 ## Max's Full Website
 
-Check <a href="https://mxnkpl.com"> mxnkpl.com </a> for more projects and information on author.
+Check <a href="https://mxnkpl.com"> MXNKPL.COM </a> for more projects and information.
 
 ***
 
-## About Indigo & Jekyll
 
+## About Indigo Theme on Jekyll
+
+-[Indigo Theme](https://github.com/sergiokopplin/indigo/) : [Live-demo](http://sergiokopplin.github.io/indigo/)
 - [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
 - Tests with [Travis](https://travis-ci.org/)
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
 
 ## Setup
-To use Indigo Theme:
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
-
-If you want to test locally on your machine, do the following steps also:
+To use Indigo Theme locally on your machine, do the following steps:
 
 1. Install [Jekyll](https://jekyllrb.com/docs/), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
 1a. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
@@ -63,8 +54,8 @@ If you want to test locally on your machine, do the following steps also:
 You must fill some informations on `_config.yml` to customize your site.
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Maxi Moe
+bio: 'Go Code.'
 picture: 'assets/images/profile.jpg'
 ...
 
