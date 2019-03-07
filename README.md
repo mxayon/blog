@@ -1,12 +1,10 @@
 <p align="center">
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's Blog</a> </h2>
-    <h2 align="center"> made on Indigo Jekyll Template </h2>
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a> is brought to you by the Indigo Theme on Jekyll Template</h2>
 </p>
 
-<p align="center">"Quick-Launch" Blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
+<p align="center">A "quick-Launch" blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
 theme on
 <a href="https://jekyllrb.com"> Jekyll</a>
-<h3 align="center">Blog Author: <a href="https://mxnkpl.com"> Max Nakpil </a></h3>
 </p>
 
 
@@ -28,13 +26,15 @@ theme on
 
 ## Blog
 
-<a href="https://mxnkpl.com/blog/"> Max's Blog:</a>
+<a href="https://mxnkpl.com/blog/"> Blog:</a>
 
-Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && directory of resources to help defeat Math-phobia.
+Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && Directory of Resources to help defeat Math-Phobia.
 
-## Max's Full Website?
+## Max's Full Website
 
-Check<a href="https://mxnkpl.com"> Max's Full Website</a> for more projects and information on author.
+Check <a href="https://mxnkpl.com"> mxnkpl.com </a> for more projects and information on author.
+
+***
 
 ## About Indigo & Jekyll
 
