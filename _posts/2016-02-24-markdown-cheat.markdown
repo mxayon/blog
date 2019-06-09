@@ -1,5 +1,5 @@
 ---
-title: "Markdown Common Elements"
+title: "Markdown Cheatsheet"
 draft: true
 layout: post
 date: 2016-02-24 22:44
@@ -10,7 +10,7 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
+author: maximonakpil
 description: Markdown summary with different options
 ---
 
@@ -372,14 +372,6 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 {% endhighlight %}
 
 <iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
-
 
 [1]: http://daringfireball.net/projects/markdown/
 [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
