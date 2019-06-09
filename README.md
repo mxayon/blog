@@ -23,7 +23,8 @@ theme on
 
 <a href="https://mxnkpl.com/blog/"> About Blog:</a>
 
-Covers the growing pains of a Software Engineer. A tool to cradle any interests in Machine Learning, Data Science and Ethical Data && Directory of Resources to help defeat Math-Phobia.
+Product Designer
+Continuity Assembler
 
 ## Max's Full Website
 
@@ -35,8 +36,6 @@ Check <a href="https://mxnkpl.com"> MXNKPL.COM </a> for more projects and inform
 ## About Indigo Theme on Jekyll
 
 -[Indigo Theme](https://github.com/sergiokopplin/indigo/) : [Live-demo](http://sergiokopplin.github.io/indigo/)
-- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
 
 ## Setup
