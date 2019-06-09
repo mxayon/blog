@@ -1,0 +1,37 @@
+---
+title: "STATIPY"
+draft: true
+layout: post
+date: 2019-04-29 11:11
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: maximonakpil
+description: Statipy a python package that uses the Spotipy python wrapper for calls to the spotify api
+---
+
+---
+
+## What is STATIPY?
+
+Adds the Stats to your Spotify experience, Statipy will gather the information of your very own spotify playlists and enables you to run data analysis with jupyter notebook.
+
+
+---
+
+### Contents
+
+1. Installation
+2. Spotify Developer
+3. Spotipy Documentation
+4. Running STATIPY
+
+{% highlight raw %}
+1. Item 1
+2. A second item
+3. Number 3
+{% endhighlight %}
