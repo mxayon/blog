@@ -1,0 +1,66 @@
+---
+title: "Alan Mathison Turing"
+draft: true
+layout: post
+date: 2019-06-07 11:11
+image: /assets/images/turing.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: maximonakpil
+description: My favorite person.
+---
+![> frequency](at-machines.png)
+## Alan Turing as an inspiration
+
+As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
+[Turing's Letters][1]
+
+His thoughts on self-singularity was ahead of his time and predicted deep learning by digging deep into the biological nature of the human embryo.
+[Self-singularity][2]
+
+I was inspired to understand how many other innovative inventors like him think and the necessity that posseded them to create things, as well as all the external factors that stop them.
+
+## Cryptanalysis Hero
+He cracked the code during WWII and intercepted an attack of Nazi submarines, when all we had was radar and pins on a map. The imitation game movie is during the time he creates the Turing Bombe, but the tragedy after shouldn't be ignored. Considered as an asset by the British Army he was convicted with "Lewd Indecency" *** and sentenced to gay male conversion therapy.
+
+He was talking about his love for Snow White a few weeks before he killed himself with a cyanide laced apple. His own cryptic omen to the barbaric intolerance of a man who has crafted an environment for self-realization.
+
+---
+
+{% highlight raw %}
+> “I'm afraid that the following syllogism may be used by some in the future.
+
+> Turing believes machines think
+Turing lies with men
+Therefore machines do not think
+
+> Yours in distress,
+
+> Alan”
+>       ― Alan Turing
+{% endhighlight raw %}
+
+![> frequency](/assets/images/at-sentence.png)
+
+---
+
+## Boole and Ramanujan
+
+The Genius of George Boole is another really good biopic. More biographical than cinema standards. It lets the viewer understand how George Boole was deeply perturbed by the potato famine destroying his surroundings and tried to make sense through math and statistics, after he gave the world boolean algebra which enabled humans with mechanical language.
+[George Boole Documentary][3]
+
+There is another film about Ramanujan, I first heard about him in the [BBC podcast][4] "A Brief History of Mathemathics"
+which is how I got over my aversion to Mathemathics. If time is taken to analyze their lives, the thicker the picture, the more poetic their work would radiate. The man who saw [infinity][5] will probably prove the same.
+
+
+---
+
+[1]: turings letters
+[2]: self-singularity
+[3]: boole Documentary
+[4]: https://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads
+[5]: the man who saw infinity
