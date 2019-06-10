@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: mxayon
-# google: mygoogle
+maximo: https://mxnkpl.com/
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -78,6 +78,7 @@ paginate_path: "/:num/"
 # if you don't need "about" or "blog", comment them out below
 about: true
 # blog: true
+
 
 # do you want to show the "read time" of the posts?
 read-time: true
