@@ -59,10 +59,10 @@ What really kept me going is imagining a world where people would enjoy and shar
 Also the big bang theory theme song may have influenced me, to be honest. Did you know that
 there was more to the song thats pretty accurate too? The barenaked ladies cleverly comes
 back from nostalgia. Also young sheldon is the reason to unapologetically love the big bang theory
-[Big Band Theory](#bigbangtheory)
+[Big Bang Theory Whole Song Animated](https://youtu.be/xCZPuaHJ-UA)
 
 Succinctly enough when I got the start of the internet era,(in the chronomap) I came across the Tim Berner's Lee talk
-[Tim Berner's Lee](#timbernerslee)
+[Tim Berner's Lee](https://youtu.be/OM6XIICm_qo)
 about sharing links and data. There is a layer of security and stability to worry about though if the entire
 program is based on links that keep changing.
 
@@ -70,14 +70,14 @@ program is based on links that keep changing.
 I throughly resonate with the aspects that relate to Collective Intelligence that Englebart spoke of. I researched a little abit about him to try to imagine what was available to him when he envisioned the mother of all demos.
 albeit alittle presumptious: 1.) He married an occupational therapist just a few years before he creates the mouse.
 2.) He is challenged by the limitations in communicating ideas in his work place, envisioned an all in one unit, more then the mouse was the screen and a separate keyboard system that was hard for him to explain and still hard to describe now.
-[Douglas Englebart](#englebart)
+[Douglas Englebart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
 
 Thinking about how profound our thoughts have evolved overtime, holds the logic that my human side needs to avoid
 imagination burnout. The roadmap points out the intersections where change broke through.
 
 p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the eurocentric mis-scalled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
 
-![EvoEpochChronoMap][/assets/images/ChronoMap.gif]
+![EvoEpochChronoMap][https://mxnkpl.com/ChronoMap.pdf]
 
 
 [Big Bang Theory](#bigbangtheory)
@@ -93,7 +93,9 @@ https://www.inverse.com/article/42902-nasa-astronauts-describe-overview-effect-e
 [Douglas Englebart](#englebart)
 [Bootstrapping](bootstrapping)
 [Tim Berner's Lee](#timbernerslee)
-[8]: https://www.oreilly.com/ideas/future-of-product-design
+[8]:[https://www.oreilly.com/ideas/future-of-product-design]
+
+[11]:[https://mxnkpl.com/ChronoMap.pdf]
 ---
 
 
