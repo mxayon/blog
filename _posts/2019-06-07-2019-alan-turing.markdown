@@ -21,7 +21,7 @@ As most things, the history goes deeper. I found the correspondece to his psycho
 
 His thoughts on self-singularity was ahead of his time and predicted deep learning by digging deep into the biological nature of the human embryo.
 [Self-singularity][2]
-
+[Patterns in Nature - WikiPedia](https://en.wikipedia.org/wiki/Patterns_in_nature)
 I was inspired to understand how many other innovative inventors like him think and the necessity that posseded them to create things, as well as all the external factors that stop them.
 
 ## Cryptanalysis Hero
@@ -38,7 +38,7 @@ Therefore machines do not think
 Yours in distress,
  Alan”
       ― Alan Turing
-      
+
 ---
 
 ![Alan Turing's Sentence](/assets/images/at-sentence.png)
@@ -56,8 +56,8 @@ which is how I got over my aversion to Mathemathics. If time is taken to analyze
 
 ---
 
-[1]: turings letters
-[2]: self-singularity
+[1]:(https://www.psychologytoday.com/us/blog/good-thinking/201312/what-alan-turing-gave-psychology)
+[2]:(https://greensborosciencecenter.wordpress.com/tag/mandelbrot/)
 [3]: boole Documentary
-[4]: https://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads
-[5]: the man who saw infinity
+[4]:(https://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads)
+[5]:(https://www.ifcfilms.com/films/the-man-who-knew-infinity)
