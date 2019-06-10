@@ -56,15 +56,16 @@ The connection between thermodynamics and what is now known as information theor
 {\displaystyle S=k_{\text{B}}\ln(W)} {\displaystyle S=k_{\text{B}}\ln(W)}
 where {\displaystyle S} S is the thermodynamic entropy of a particular macrostate (defined by thermodynamic parameters such as temperature, volume, energy, etc.), W is the number of microstates (various combinations of particles in various energy states) that can yield the given macrostate, and kB is Boltzmann's constant. It is assumed that each microstate is equally likely, so that the probability of a given microstate is pi = 1/W. When these probabilities are substituted into the above expression for the Gibbs entropy (or equivalently kB times the Shannon entropy), Boltzmann's equation results. In information theoretic terms, the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate.
 
-https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics
-https://en.wikipedia.org/wiki/Huffman_coding
-https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch
-https://en.wikipedia.org/wiki/GIF
+Supporting References:
+[Maximum Entropy Theromodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)
+[Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)
+[Lempel-Ziv-Welch](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch)
+[GIFs](https://en.wikipedia.org/wiki/GIF)
 
-https://en.wikipedia.org/wiki/Checksum
+[Checksum](https://en.wikipedia.org/wiki/Checksum)
 
 
-
+***
 
 Good words are the keys to receptivity that establishes the connections needed between well packaged concepts.
 
@@ -97,12 +98,12 @@ Good information architecture, like the doppler effect, is to consider an idea a
 
 Understanding what the union is between multiple sciences, also looking for the answers in the "inverse". The digital information age is like a minesweeper game with enough reading and discernment, I could clear out paths to solutions. The way we share has evolved like the internet epochs, now considering humanities evolving alongside technology. How our search usage evolved, with encylopedia britanica, wikipedia, google referntial search engines and now [dbpedia][3] and [union][4].
 
-[1]: https://archive.briankoberlein.com/2013/09/11/hubbles-constant/index.html
+[1]:(https://archive.briankoberlein.com/2013/09/11/hubbles-constant/index.html)
 
-[2]: https://archive.briankoberlein.com/2013/09/12/echo-of-the-big-bang/index.html
+[2]:(https://archive.briankoberlein.com/2013/09/12/echo-of-the-big-bang/index.html)
 
-[3]: dbpedia
+[3]:(https://wiki.dbpedia.org/)
 
-[4]: unionpedia
+[4]:(https://www.unionpedia.org/)
 
-[5]: https://wiki.lesswrong.com/wiki/LessWrong_Wiki
+[5]:(https://wiki.lesswrong.com/wiki/LessWrong_Wiki)
