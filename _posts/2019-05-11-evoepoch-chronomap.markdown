@@ -58,7 +58,7 @@ What really kept me going is imagining a world where people would enjoy and shar
 
 ## Big Bang Connection
 The big bang theory theme song may have influenced me, to a certain extent, in film class
-adding continuity is taught early on so that one could incorporate a continuation early on and it was my favorite design aspect of making films. For example, how young sheldon ties in the whole series by going back to how Sheldon became Sheldon, the more I empathize I think of it more often and grow more fond.
+adding continuity is taught early on so that one could incorporate a continuation early on and it was my favorite design aspect of making films. For example, how young sheldon ties in the whole series by going back to how Sheldon became Sheldon. Whenever things are tied in together I am fully amused. Furthermore if it is almost seemless.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xCZPuaHJ-UA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Big Bang Theory Theme Song Animated</iframe>
 
 Succinctly enough when I got the start of the internet era,(in the chronomap) I came across the Tim Berner's Lee talk
