@@ -77,7 +77,7 @@ imagination burnout. The roadmap points out the intersections where change broke
 
 p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the eurocentric mis-scalled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
 
-![EvoEpochChronoMap][https://mxnkpl.com/ChronoMap.pdf]
+![EvoEpochChronoMap][https://mxnkpl.com/ChronoMap.gif]
 
 
 [Big Bang Theory](#bigbangtheory)
