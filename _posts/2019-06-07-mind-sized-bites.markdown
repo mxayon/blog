@@ -40,7 +40,7 @@ initial feedback loop layer, conducted by designer / producer. Sent off to 2nd d
 external feedback loop, real-time feedback loop under discretion of designer and content.
 
 The data labeled from unsupervised footage should be grouped into a date-event description folder, for example,
-saved items consists of the footage that have at least 6 seconds of ["usable"][1] clip time, label implies if there are more.
+saved items consists of the footage that have at least 6 seconds of "[usable][1]" clip time, label implies if there are more.
 More keywords in a label, more content to scale. Date, Subject Name and Subject Action helps arrange the order it will be stored.
 
 
@@ -64,8 +64,8 @@ Unsupervised
   filtered before storage. This saves time in the video review/ label portion. A first hand perspective in the filming
   the shots reduces review time significantly. As well as setting up an automatic feedback process to instantiate data
   gathering cycle.
-
-[1]: Usuable: Here are some simple rules to follow for knowing usuable data. (video footage)
+***
+[1][Usuable]: Here are some simple rules to follow for knowing usuable data. (video footage)
       a. Exposure - daytime shooting offers great light for subject but video is over exposed if background is
       washed out. Constantly recalibrating angles affects the color and quality of the shot. Experimentation
       in similar settings is necessary during capturing unsupervised data. Knowing what to take from the experiment
@@ -93,6 +93,7 @@ Unsupervised
             b. Key words and organization makes sure observation does not get lost in abyss. If a really well composed artistic
             shot I could use of a perfectly exposed popular location for example is labeled incorrectly during another project,
             the results will not be the same.
+***
 
 ## Full Circle Resolution
 
