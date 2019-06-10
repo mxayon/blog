@@ -28,13 +28,14 @@ My cheatsheet was created as a quick mock up or prototype of explaining specific
 ## Studying Tooling as Tools for Tools
 As I've learned with my UI/UX bias snafu - its important for me to document or at least understand where the disconnect was and plot it out to gain knowledge, alot of patterns repeat itself so for sure this will come in handy.
 
-When I read about bootstrapping being an actual 'thing', [Bootstrapping](bootstrapping)
+When I read about bootstrapping being an actual 'thing',
 I was both excited and humbled by how profound and all encompassing it actually is. Almost all sciences have evolved through this need, Histiology the study or studies, etc.
 
 How are these terms so philosophical and intuitive? I have a presumption that it is because computer sciences is the amalgamation of logic, philosophy, biology, evolution, humanities and psychology with LEAN UX methodologies, then neuroscience with AI or machine learning.
 
 The biggest learning expereince is to think exponentially. Looking for the tiny fragments that built time then viewing it as a whole picuture gives a dizzying effect.
-[NASA](#nasa)
+[NASA](https://www.inverse.com/article/42902-nasa-astronauts-describe-overview-effect-everything-changed)
+
 
 Interestingly this must have what discovery felt like during the beginnning of time since each incremental change in knowledge (or the very first one) has nothing to compare it to.
 
@@ -77,23 +78,11 @@ imagination burnout. The roadmap points out the intersections where change broke
 
 p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the eurocentric mis-scalled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
 
-![EvoEpochChronoMap][https://mxnkpl.com/ChronoMap.gif]
+![EvoEpochChronoMap][https://mxnkpl.com/chronomap.pdf]
 
 ***
 ## References
-[Big Bang Theory](#bigbangtheory)
-[References](#references)
 
-[NASA](#nasa)
-https://www.inverse.com/article/42902-nasa-astronauts-describe-overview-effect-everything-changed
-
-[Guttenberg](#Guttenberg)
-
-
-[AlanTuring](#alanturing)
-[Douglas Englebart](#englebart)
-[Bootstrapping](bootstrapping)
-[Tim Berner's Lee](#timbernerslee)
 [8]:(https://www.oreilly.com/ideas/future-of-product-design)
 
 ---
