@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: My favorite person.
 ---
-![Surprise and Frequency](/images/at-machines.png)
+![Surprise and Frequency](/assets/images/at-machines.png)
 ## Alan Turing as an inspiration
 
 As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
@@ -58,6 +58,6 @@ which is how I got over my aversion to Mathemathics. If time is taken to analyze
 
 [1]:(https://www.psychologytoday.com/us/blog/good-thinking/201312/what-alan-turing-gave-psychology)
 [2]:(https://greensborosciencecenter.wordpress.com/tag/mandelbrot/)
-[3]: boole Documentary
+[3]:(http://www.engineersjournal.ie/2015/08/26/the-genius-of-george-boole-captured-in-new-rte-documentary/)
 [4]:(https://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads)
 [5]:(https://www.ifcfilms.com/films/the-man-who-knew-infinity)
