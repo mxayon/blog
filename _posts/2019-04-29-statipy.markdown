@@ -3,8 +3,8 @@ title: "STATIPY"
 draft: false
 layout: post
 date: 2019-04-29 11:11
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/bulbasaurspotify.png
+headerImage: true
 tag:
 - markdown
 - elements
@@ -29,9 +29,3 @@ Adds the Stats to your Spotify experience, Statipy will gather the information o
 2. Spotify Developer
 3. Spotipy Documentation
 4. Running STATIPY
-
-{% highlight raw %}
-1. Item 1
-2. A second item
-3. Number 3
-{% endhighlight %}
