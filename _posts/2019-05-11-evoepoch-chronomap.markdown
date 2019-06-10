@@ -57,11 +57,9 @@ What really kept me going is imagining a world where people would enjoy and shar
 
 
 ## Big Bang Connection
-Also the big bang theory theme song may have influenced me, to be honest. Did you know that
-there was more to the song thats pretty accurate too? The barenaked ladies cleverly comes
-back from nostalgia. Also young sheldon is the reason to unapologetically love the big bang theory
-<iframe width="560" height="310" src="https://youtu.be/xCZPuaHJ-UA" frameborder="0" allowfullscreen>Big Bang Theory Whole Song Animated
-</iframe>
+The big bang theory theme song may have influenced me, to a certain extent, in film class
+adding continuity is taught early on so that one could incorporate a continuation early on and it was my favorite design aspect of making films. For example, how young sheldon ties in the whole series by going back to how Sheldon became Sheldon, the more I empathize I think of it more often and grow more fond.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCZPuaHJ-UA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Big Bang Theory Theme Song Animated</iframe>
 
 Succinctly enough when I got the start of the internet era,(in the chronomap) I came across the Tim Berner's Lee talk
 [Tim Berner's Lee](https://youtu.be/OM6XIICm_qo)
@@ -77,7 +75,7 @@ albeit alittle presumptious: 1.) He married an occupational therapist just a few
 Thinking about how profound our thoughts have evolved overtime, holds the logic that my human side needs to avoid
 imagination burnout. The roadmap points out the intersections where change broke through.
 
-p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the eurocentric mis-scalled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
+p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the euro-centric mis-scaled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
 
 ***
 
