@@ -20,6 +20,7 @@ theme on
 ## Blog
 
 <a href="https://mxnkpl.com/blog/"> About Blog:</a>
+Max sharing things.
 Extrapolating thinker.
 Working on ways to fix things, fuse together or dismantle when necessary.
 Cross-Dimensional Developer,
@@ -54,7 +55,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: Maxi Moe
-bio: 'Go Code.'
+bio: 'Tough Cookie.'
 picture: 'assets/images/profile.jpg'
 ...
 
