@@ -1,6 +1,6 @@
 ---
 title: "Mind Sized Bites"
-draft: true
+draft: false
 layout: post
 date: 2019-06-07 11:11
 image: /assets/images/markdown.jpg
@@ -45,7 +45,7 @@ More keywords in a label, more content to scale. Date, Subject Name and Subject 
 
 
 
-.....
+.. (Ask me for more!) ..
 
 
 ## Content / Data:
