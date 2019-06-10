@@ -46,9 +46,8 @@ valid relationship untill Gibbs Entropy paved way for Von Neumann entropy making
 
 Shannon's definition of entropy, when applied to an information source, can determine the minimum channel capacity required to reliably transmit the source as encoded binary digits
 
-https://en.wikipedia.org/wiki/Entropy_(information_theory)
-https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem#Source_coding_theorem_for_symbol_codes
-
+[Entropy](https://en.wikipedia.org/wiki/Entropy_)
+[Source Coding Theorem For Symbol Codes](https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem#Source_coding_theorem_for_symbol_codes)
 At an everyday practical level, the links between information entropy and thermodynamic entropy are not evident. Physicists and chemists are apt to be more interested in changes in entropy as a system spontaneously evolves away from its initial conditions, in accordance with the second law of thermodynamics, rather than an unchanging probability distribution. As the minuteness of Boltzmann's constant kB indicates, the changes in S / kB for even tiny amounts of substances in chemical and physical processes represent amounts of entropy that are extremely large compared to anything in data compression or signal processing. In classical thermodynamics, entropy is defined in terms of macroscopic measurements and makes no reference to any probability distribution, which is central to the definition of information entropy.
 
 The connection between thermodynamics and what is now known as information theory was first made by Ludwig Boltzmann and expressed by his famous equation:
@@ -97,7 +96,7 @@ Star Trek somehow is a capsule of how our imagination worked during its peak as 
 Good information architecture, like the doppler effect, is to consider an idea and its distance from our current mindset. Dictating discoverable patterns for those who are willing to search.
 
 Understanding what the union is between multiple sciences, also looking for the answers in the "inverse". The digital information age is like a minesweeper game with enough reading and discernment, I could clear out paths to solutions. The way we share has evolved like the internet epochs, now considering humanities evolving alongside technology. How our search usage evolved, with encylopedia britanica, wikipedia, google referntial search engines and now [dbpedia][3] and [union][4].
-
+[Less Wrong Wiki][5]
 [1]:(https://archive.briankoberlein.com/2013/09/11/hubbles-constant/index.html)
 
 [2]:(https://archive.briankoberlein.com/2013/09/12/echo-of-the-big-bang/index.html)
