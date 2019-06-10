@@ -81,13 +81,13 @@ Unsupervised
     Compound Subjects are more likely reusable in multiple projects,
       establishing your rules for your data organization is an important foot hold.
 
-    -  Subject Naming Guide
-    -    Single Subj. label: Noun, Object. Footage is typically human focused. ** Mostly pancake lenses with small aperture
+### Subject Naming Guide
+- Single Subj. label: Noun, Object. Footage is typically human focused. ** Mostly pancake lenses with small aperture
          are best for high resolution portrait type solos.
-         * Important to factor technological design decision of camera lens, type, angle, motion and lighting.
-           - any results to experiments or change in lens, type, angle, motion or lighting can hold key elements to to improve the
-           data gathering cycle.
-    -    Compound Subj. label - It's best to set rules early on.
+- Important to factor technological design decision of camera lens, type, angle, motion and lighting.
+      * any results to experiments or change in lens, type, angle, motion or lighting can hold key elements to to improve the
+        data gathering cycle.
+- Compound Subj. label - It's best to set rules early on.
             a. Identify subjects with in footage for use or archive. Describe subjects from usable
             portions of the clip.
             b. Key words and organization makes sure observation does not get lost in abyss. If a really well composed artistic
