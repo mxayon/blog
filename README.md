@@ -1,5 +1,8 @@
 <p align="center">
+<<<<<<< HEAD
     <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a></h2>
+=======
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a><br> </h2>
 </p>
 
 <p align="center">A "quick-launch" blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
@@ -9,8 +12,6 @@ theme on
 
 <p align="center">
     <b><a href="README.md#blog">About Blog</a></b>
-    |
-    <b><a href="https://mxnkpl.com">MXNKPL.COM</a></b>
     |
     <b><a href="README.md#setup">Setup</a></b>
 </p>
@@ -22,8 +23,17 @@ theme on
 ## Blog
 
 <a href="https://mxnkpl.com/blog/"> About Blog:</a>
+<<<<<<< HEAD
 Max's Blog! Extrapolating thinker.
 Working on ways to fix things, fuse together or dismantle when necessary.
+=======
+Max sharing things.
+Extrapolating thinker.
+Working on ways to fix things, fuse together or dismantle when necessary.
+Cross-Dimensional Developer,
+Product Designer,
+Continuity Assembler.
+>>>>>>> bf764049a74fb8ab94ac829ba4fd91cdc440664f
 
 ## Max's Full Website
 
@@ -53,7 +63,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: Maxi Moe
-bio: 'Go Code.'
+bio: 'Tough Cookie.'
 picture: 'assets/images/profile.jpg'
 ...
 
