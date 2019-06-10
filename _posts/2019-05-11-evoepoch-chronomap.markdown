@@ -55,7 +55,7 @@ What really kept me going is imagining a world where people would enjoy and shar
  accurately wild as the internet allows me to.
 
 
-***** SIDE NOTE****
+## Big Bang Connection
 Also the big bang theory theme song may have influenced me, to be honest. Did you know that
 there was more to the song thats pretty accurate too? The barenaked ladies cleverly comes
 back from nostalgia. Also young sheldon is the reason to unapologetically love the big bang theory
@@ -66,7 +66,7 @@ Succinctly enough when I got the start of the internet era,(in the chronomap) I 
 about sharing links and data. There is a layer of security and stability to worry about though if the entire
 program is based on links that keep changing.
 
-
+## Collective Intelligence connection
 I throughly resonate with the aspects that relate to Collective Intelligence that Englebart spoke of. I researched a little abit about him to try to imagine what was available to him when he envisioned the mother of all demos.
 albeit alittle presumptious: 1.) He married an occupational therapist just a few years before he creates the mouse.
 2.) He is challenged by the limitations in communicating ideas in his work place, envisioned an all in one unit, more then the mouse was the screen and a separate keyboard system that was hard for him to explain and still hard to describe now.
@@ -79,7 +79,8 @@ p.s. (Its important to note that the information I have gathered is different in
 
 ![EvoEpochChronoMap][https://mxnkpl.com/ChronoMap.gif]
 
-
+***
+## References
 [Big Bang Theory](#bigbangtheory)
 [References](#references)
 
@@ -93,11 +94,6 @@ https://www.inverse.com/article/42902-nasa-astronauts-describe-overview-effect-e
 [Douglas Englebart](#englebart)
 [Bootstrapping](bootstrapping)
 [Tim Berner's Lee](#timbernerslee)
-[8]:[https://www.oreilly.com/ideas/future-of-product-design]
+[8]:(https://www.oreilly.com/ideas/future-of-product-design)
 
-[11]:[https://mxnkpl.com/ChronoMap.pdf]
 ---
-
-
-
-## References
