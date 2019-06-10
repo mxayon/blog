@@ -2,7 +2,7 @@
 title: "Nexus of Innovation: Evolutionary Epochs"
 draft: false
 layout: post
-date: 2020-11-11 11:11
+date: 2019-06-10 11:11
 image: /assets/images/00chronomap.jpg
 headerImage: true
 tag:
@@ -60,7 +60,8 @@ What really kept me going is imagining a world where people would enjoy and shar
 Also the big bang theory theme song may have influenced me, to be honest. Did you know that
 there was more to the song thats pretty accurate too? The barenaked ladies cleverly comes
 back from nostalgia. Also young sheldon is the reason to unapologetically love the big bang theory
-[Big Bang Theory Whole Song Animated](https://youtu.be/xCZPuaHJ-UA)
+<iframe width="560" height="310" src="https://youtu.be/xCZPuaHJ-UA" frameborder="0" allowfullscreen>Big Bang Theory Whole Song Animated
+</iframe>
 
 Succinctly enough when I got the start of the internet era,(in the chronomap) I came across the Tim Berner's Lee talk
 [Tim Berner's Lee](https://youtu.be/OM6XIICm_qo)
