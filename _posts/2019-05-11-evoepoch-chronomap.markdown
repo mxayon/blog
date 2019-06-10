@@ -3,7 +3,7 @@ title: "Nexus of Innovation: Evolutionary Epochs"
 draft: false
 layout: post
 date: 2019-05-11 11:11
-image: /assets/images/markdown.jpg
+image: /assets/images/00chronomap.jpg
 headerImage: false
 tag:
 - markdown
@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: Plot to the modern day.
 ---
-
+[DOWNLOAD EVO EPOCH CHRONO MAP IN PDF](https://mxnkpl.com/chronomap.pdf)
 ## Evo Epoch Chrono Map:
 The Evolutionary Epochs Chrono Map is a detailed map type cheatsheet that spreads out some points in time that tries to put in to account how revolutionary an invention is based on other variables around it.
 
@@ -77,8 +77,6 @@ Thinking about how profound our thoughts have evolved overtime, holds the logic 
 imagination burnout. The roadmap points out the intersections where change broke through.
 
 p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the eurocentric mis-scalled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
-
-![EvoEpochChronoMap][https://mxnkpl.com/chronomap.pdf]
 
 ***
 ## References
