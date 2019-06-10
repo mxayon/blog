@@ -1,6 +1,6 @@
 # main text of home
 name: Maximo Nakpil
-bio: Product Designer | Dimension Developer
+bio: Product Designer | Cross-Dimensional Developer
 
 # twitter summary info
 description:
@@ -56,7 +56,7 @@ email: mxnakpil@gmail.com
 authors:
     maximonakpil:
         name: Max Nakpil
-        bio: Mad Scientist, Singularity Architecht
+        bio: Mad Scientist, Continuity Assembler
         external-image: false
         picture: assets/images/maxweb.png
         twitter: mxayon
@@ -69,7 +69,7 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 5
+paginate: 15
 paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below
