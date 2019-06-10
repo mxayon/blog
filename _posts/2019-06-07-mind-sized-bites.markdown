@@ -25,6 +25,15 @@ the motion forcing you to think of how to keep things suggestive and fluid.
 There is some wizardry to how knowledge is transferred at the right cadence how film uses all the elements in its power,
 color, timing, framing, story build up, to open up receptors to full engagement before "dropping the mic".
 
+---
+
+<iframe src="https://player.vimeo.com/video/75665051" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/75665051">a deepkind production</a> from <a href="https://vimeo.com/dpknd">Deepkind</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+First succesful "Repurposed" shot from unusable archived data.
+
+---
+
 ## Storyline Framework
 
 Each project has objectives: a Introduction, a concept to establish / Build up,
@@ -45,7 +54,8 @@ More keywords in a label, more content to scale. Date, Subject Name and Subject 
 
 
 
-.. (Ask me for more!) ..
+.. This is where I explain my system for archiving and repurposing..
+(Ask me for more!) ..
 
 
 ## Content / Data:
@@ -97,7 +107,7 @@ Unsupervised
 
 ## Full Circle Resolution
 
-Establish connection, remember that the avereage attention span is short, try to review objectively by temporarily removing ownership
+Establish connection, remember that the average attention span is short, try to review objectively by temporarily removing ownership
 of story objectives to understand what has been played on screen, specially when attempting to repurpose a shot, even if desired result is
 achieved a juxtaposition without purpose damages the integrity.
 
