@@ -2,7 +2,7 @@
 title: "Nexus of Innovation: Evolutionary Epochs"
 draft: false
 layout: post
-date: 2019-05-11 11:11
+date: 2020-11-11 11:11
 image: /assets/images/00chronomap.jpg
 headerImage: false
 tag:
@@ -40,10 +40,10 @@ The biggest learning expereince is to think exponentially. Looking for the tiny 
 Interestingly this must have what discovery felt like during the beginnning of time since each incremental change in knowledge (or the very first one) has nothing to compare it to.
 
 There is also the proof that all the revolutions are ignited by peoples abilities to start sharing knowledge. "Guttenberg democratized revolution" to evolution is like the first microprocessor to computers...
-[Guttenberg](#Guttenberg)
+[Guttenberg](https://en.wikipedia.org/wiki/Democratization_of_knowledge)
 
 The expanding universe can explain a lot of the behavior, but I'm not quite sure how, It follows the same accordion pattern and on a macro level biology mirrors self-singularity.
-(I want to write more about my Alan Turing Research he deserves all the acknoledgement, for now here's how he predicted A.I.)   [AlanTuring](#alanturing)
+(I want to write more about my Alan Turing Research he deserves all the acknoledgement, for now here's how he predicted A.I.)   [AlanTuring](https://singularityhub.com/2019/03/26/what-would-it-mean-for-ai-to-become-conscious/)
 
 Blind cartography during the dark ages, scientific maps, tuftean design, to reaching for the stars to map out a cosmological universe that brings us back to the beginning of time. Humanity has evolved through exploring the immeasurable unknown. If today would be the product design [renaissance][8]
 it would be good to look at the change of romanticism towards new ideas through out time. Space and time factors indicate for a technical project to research alone (with supervised set rules) would not be pragmatic but thats when information architecture plays a key role in human form...
