@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: My favorite person.
 ---
-![> frequency](/assets/images/at-machines.png)
+![Surprise and Frequency](/assets/images/at-machines.png)
 ## Alan Turing as an inspiration
 
 As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
@@ -31,20 +31,17 @@ He was talking about his love for Snow White a few weeks before he killed himsel
 
 ---
 
-{% highlight raw %}
 > “I'm afraid that the following syllogism may be used by some in the future.
-
-> Turing believes machines think
+Turing believes machines think
 Turing lies with men
 Therefore machines do not think
+Yours in distress,
+ Alan”
+      ― Alan Turing
+      
+---
 
-> Yours in distress,
-
-> Alan”
->       ― Alan Turing
-{% endhighlight raw %}
-
-![> frequency](/assets/images/at-sentence.png)
+![Alan Turing's Sentence](/assets/images/at-sentence.png)
 Found Here: [Turing's Sentence][https://www.turing.org.uk/sources/sentence.html]
 ---
 
