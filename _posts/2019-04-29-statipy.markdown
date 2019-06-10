@@ -60,7 +60,7 @@ Spotify api has a limit of 50, Ive reached my cap a couple of times, but resets 
 A good thing to keep in mind, if you reach your daily limit, you get a connection error that the token has expired. You can check back on the developer page to see if you have reached the limit - in which case you can try the next day, or if you just need to update your permissions list it would be a quick way to find out.
 
 Sign in with your developer credentials on the command line or add it to a file and import it to your .py file, (in this example, the statipy_analyzer.py - already imports from config.py). If you save it to a file, make sure you don't include this in any uploads or on Github pushes otherwise you would be exposing your keys.
-#HideYourKeysHideYourWifi
+### HideYourKeysHideYourWifi
 
 ... Get auth
 You need to set your Spotify API credentials. You can do this by setting environment variables like so:
@@ -76,10 +76,10 @@ When you run Statipy, it saves your developer credentials entered in CLI into a 
 
 and the scope variable is defined when it runs this part of the code:
 
-# Asks for permission to get current users playlists:
+### Asks for permission to get current users playlists:
 
 scope = "user-read-private user-read-email user-library-read playlist-read-private playlist-read-collaborative"
-#Spotipy function that keeps you authorized saved into token variable:
+### Spotipy function that keeps you authorized saved into token variable:
 
 token = util.prompt_for_user_token(username, scope)
 Command line / IDE should now retrieve current users data.
@@ -106,23 +106,5 @@ of current users saved, public, private and followed playlists.
 
 The objective is to analyze the frequency of objects and find patterns in the saved data that could be used to improve playlist content and Spotify user experience.
 
-#Playlist, Artists & Albums
-update
-As of 4/10 there are a total of 991 tracks.
 
-Total Tracks : 971
-Total Artists : 971
-Total Playlists Analyzed : 19
-
-Takeaways for statipy_analyzer
-Indents matter - fixing functions and scope!
-
-naming convention - plural S and singular
-" " vs ' '
-key vs id
-
-Takeaways for Exploratory Data Analyis
-Save time: Plan ahead, ask questions.
-Clean data frame and prepare data types early.
-
-Have a clear divide and conquer plan before trying new things.
+[Statipy Project on Github - Try it yourself!](https://github.com/mxayon/statipy)
