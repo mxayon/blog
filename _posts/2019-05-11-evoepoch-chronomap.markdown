@@ -1,6 +1,6 @@
 ---
 title: "Nexus of Innovation: Evolutionary Epochs"
-draft: true
+draft: false
 layout: post
 date: 2019-05-11 11:11
 image: /assets/images/markdown.jpg
@@ -77,6 +77,7 @@ imagination burnout. The roadmap points out the intersections where change broke
 
 p.s. (Its important to note that the information I have gathered is different in other parts of the hemisphere, we have not come that far from the eurocentric mis-scalled maps during the age of discovery. Also most inventions come from a collective understanding of new sciences or adapting to a new paradigm shift. To put in perspective these end points might just be the tips of the icebergs.)
 
+![EvoEpochChronoMap][/assets/images/ChronoMap.gif]
 
 
 [Big Bang Theory](#bigbangtheory)
