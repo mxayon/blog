@@ -3,8 +3,8 @@ title: "Mind Sized Bites"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/inspectocat.png
+headerImage: true
 tag:
 - markdown
 - elements
