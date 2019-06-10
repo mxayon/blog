@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a><br> is brought to you by the Indigo Theme on Jekyll Template</h2>
+    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a></h2>
 </p>
 
 <p align="center">A "quick-launch" blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
@@ -22,9 +22,8 @@ theme on
 ## Blog
 
 <a href="https://mxnkpl.com/blog/"> About Blog:</a>
-
-Product Designer
-Continuity Assembler
+Max's Blog! Extrapolating thinker.
+Working on ways to fix things, fuse together or dismantle when necessary.
 
 ## Max's Full Website
 
