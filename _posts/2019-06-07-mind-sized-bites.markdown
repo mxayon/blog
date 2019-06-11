@@ -30,16 +30,15 @@ color, timing, framing, story build up, to open up receptors to full engagement 
 <iframe src="https://player.vimeo.com/video/75665051" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/75665051">a deepkind production</a> from <a href="https://vimeo.com/dpknd">Deepkind</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-First succesful "Repurposed" shot from unusable archived data.
+First successful "Repurposed" shot from unusable archived data.
 
----
 
 ## Storyline Framework
 
 Each project has objectives: a Introduction, a concept to establish / Build up,
 Solve problem - make connections - pivotal peak, Conclusion / aftercare. The project goal segments
 complete the storyline - the projects main framework. Template need based projects are usually based on the
-viewer / communicator's intentions. Event based templates, Subject based templates, Archive based templates are the main
+viewer / communicator's intentions. Event based templates, Subject based templates, Archive based are the main
 communication storylines for templating. Free-form serves as a more compounded approach to the assembly of the story line.
 
 Sticking to one pivotal peak per project, keeps each project well packaged for distribution. The same as staging incremental
@@ -49,13 +48,67 @@ initial feedback loop layer, conducted by designer / producer. Sent off to 2nd d
 external feedback loop, real-time feedback loop under discretion of designer and content.
 
 The data labeled from unsupervised footage should be grouped into a date-event description folder, for example,
-saved items consists of the footage that have at least 6 seconds of "[usable][1]" clip time, label implies if there are more.
+saved items consists of the footage that have at least 6 seconds of ["usable"][1] clip time, label implies if there are more.
 More keywords in a label, more content to scale. Date, Subject Name and Subject Action helps arrange the order it will be stored.
 
+## Product Packaging
 
+Knowing when to "own the moment" refines with time.
+Heuristic learning for creating better composition, purposeful design choices on a timeline can be either dragged
+or pedestaled, still frame version is the concept not in practice. Repurposing a clip can achieve this effect through
+dimension or effects.
 
-.. This is where I explain my system for archiving and repurposing..
-(Ask me for more!) ..
+Depending on the need, the objectives of the storyline or branch fragments are divided into User-centric based repositories:
+#### Template
+* supervised vs unsupervised footage
+
+#### Free-Line
+* supervised vs unsupervised footage
+Free-Line is where the knowledge of what to do with the footage comes into play, its best to plot out a plan first to avoid unnecessary crashes. A well discussed wire-frame, story-board or story plot maybe sufficient intra-framework if trust is encapsulated in a fortified incremental feedback cycle. The opportunity to evolve from "real-time" constructive criticism will propel 3 factors: 1)
+Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
+with unsupervised footage.
+The key to working with unsupervised data is to analyze it first, take note of ["usuable"][1] segments.
+
+## Project Objectives
+Free-Line is independent to content archive. Dependent on a story board to create new footage,
+typical ideation stage needs its own feedback stage. Each footage capture goes through its incremental approach
+of sanity checks and experimentation to improve on each fragment of the story line. I think of it as the TDD
+to creating the final product. Each clip is processed before storage phase.
+
+Template format is mostly dependent on your storage. Additional data is gathered to support objectives.
+Typically, Event, Subject or Archive based projects are requests from viewer or message conveyer where it is
+imperative (and Agile-like) to be flexible to the viewers needs from the beginning. To save time on changes,
+this part is particularly more important for the template format since the template interweaves a strict 6 second
+prime focus shot to 2 second transition rule. Rat focus can be implemented to loosely move the 6 second rule depend
+cadence of the audio. The wireframe for project concept should have project objectives established,
+with audio (or description to set tone) for introduction, concept, peak and resolution.
+
+## Incubator : Audio peak meters
+
+Audio decision should take as much research as needed as it sets entire theme. Key frames on the storyline mark
+the points for each story phase. This sets the environment for the ideation phase. Have resources knolled out, imagine multiple outcomes
+of each choice, have a sense of what the desired outcome is first before offering multiple ideas. Each offer weighed out deliberately to reduce
+risk of creative burnout, in terms of seeing if juxtaposition of audio and video work. Often times the song you imagine you want to work with
+is a song that would make it harder for the pieces to connect.
+
+(Most music videos follow the storyboard supervised footage format, most templated formats follow an unsupervised but strict, cookie cutter format. What has worked best, keeping myself - possessed into hours of scrutiny- and my viewers engaged was an audio centered template. A really fancy way to say "fan video or cover video". I prefer to think of it as my heliocentric model of the editingverse.)
+
+## Transitions and Repurposing
+Interestingly enough, if the transition or footage cut (if you'd like a sharp effect)
+is set on the down beat, it creates a seamless effect. Manually storing and labelling
+data gives you the advantage of predicting which clips to prioritize or repurpose. Sometimes there is a subset of unusable clips
+that could be repurposed to assist the theme. The result of repurposed clips are usually polarized, usually a decision
+between sacrificing quality over production time & space complexities.
+
+Repurposing the footage via dimensions or effects, can be used to build the intro and resolution.
+Repurposing runs up a lot of rendering time, compression errors are usually the biggest reason of system crashes and unsaved work.
+Repurposed files with dimensions on effects has always been a breaking point to the render engine.
+Repurposing effects shifts color, mood and theme, and can be used as effective story telling tool but a de-facto attachment to
+effects is hard to cure like a moth to a flame..
+Repurposing with dimension can have parallel running stories making more connections. There's length of clip in seconds, there's grid dimension
+on the 2d plane, the 3rd dimension or layer is the depth.
+
+Repurposed files that work can be a good resource in any other related projects.
 
 
 ## Content / Data:
@@ -74,7 +127,7 @@ Unsupervised
   filtered before storage. This saves time in the video review/ label portion. A first hand perspective in the filming
   the shots reduces review time significantly. As well as setting up an automatic feedback process to instantiate data
   gathering cycle.
-***
+
 [1][Usuable]: Here are some simple rules to follow for knowing usuable data. (video footage)
       a. Exposure - daytime shooting offers great light for subject but video is over exposed if background is
       washed out. Constantly recalibrating angles affects the color and quality of the shot. Experimentation
