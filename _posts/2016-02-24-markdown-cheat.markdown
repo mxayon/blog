@@ -107,18 +107,9 @@ URLs can be made in a handful of ways:
 
 ## Horizontal rule
 
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-{% highlight raw %}
----
-{% endhighlight %}
-
 ---
 
 ## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
 ![Markdowm Image][/image/url]
