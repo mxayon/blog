@@ -6,8 +6,9 @@ date: 2019-06-07 11:11
 image: /assets/images/inspectocat.png
 headerImage: true
 tag:
-- markdown
-- elements
+- infobite
+- design
+- receptivity
 star: true
 category: blog
 author: maximonakpil
@@ -64,8 +65,10 @@ Depending on the need, the objectives of the storyline or branch fragments are d
 
 #### Free-Line
 * supervised vs unsupervised footage
-Free-Line is where the knowledge of what to do with the footage comes into play, its best to plot out a plan first to avoid unnecessary crashes. A well discussed wire-frame, story-board or story plot maybe sufficient intra-framework if trust is encapsulated in a fortified incremental feedback cycle. The opportunity to evolve from "real-time" constructive criticism will propel 3 factors: 1)
-Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
+Free-Line is where the knowledge of what to do with the footage comes into play, its best to plot out a plan first to avoid unnecessary crashes.
+A well discussed wire-frame, story-board or story plot maybe sufficient intra-framework if trust is encapsulated in a fortified incremental feedback cycle.
+The opportunity to evolve from "real-time" constructive criticism will propel
+3 factors: 1) Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
 with unsupervised footage.
 The key to working with unsupervised data is to analyze it first, take note of ["usuable"][1] segments.
 
