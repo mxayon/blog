@@ -10,7 +10,7 @@ layout: page
 <p>Designer, Developer & Dimensional Continuity Assembler </p>
 
 
-<p> A reference to an evolving frameworks... 
+<p> A reference to an evolving frameworks...
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
 This blog is both a blog and a syllabus (byllogybus) to guide a developer like me who likes to learn via exploration. I dig into how coding works, by researching how we all came to the modernity we call today.
@@ -24,7 +24,8 @@ design ties in all the underlying principles is the real key.
 Through the discipline instilled through an engineering way of learning, I was zooming in and out of Science of Information Technology courses. (A really big repository of information is available with an amazon prime membership actually, I highly recommend their documentaries.)
 </p>
 <p>
-You can find me here, making my database of of well thought out backup-plans to defy the odds when the timing is strategic.
+This is a journal of notes - Travel Logging, making a database of interwingular backup-plans to defy the odds when the timing is strategic.
+(Since it is a travel log I would like to grow from corrections! If anyone else learns best in a  [Visual-Spatial](http://www.visualspatial.org/vsi.php) way.. - this explains how this naming convention helps out. )
 </p>
 
 <h2>Hands:</h2>
