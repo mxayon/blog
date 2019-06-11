@@ -22,6 +22,7 @@ Syllabus in a Blog! Things to dig into to nourish insatiable developers.
 
 ## Philosophy and Logic
 Cogito Ergo Sum - somehow explains the poetry of OOP with self instantiation.
+[Constructivism](6)
 
 ## Cataclysmic Inventors
 What was going on around them at at that time - From another cycle?
@@ -106,3 +107,5 @@ Understanding what the union is between multiple sciences, also looking for the 
 [4]:(https://www.unionpedia.org/)
 
 [5]:(https://wiki.lesswrong.com/wiki/LessWrong_Wiki)
+
+[6]:(https://www.learning-theories.com/constructivism.html)
