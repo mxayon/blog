@@ -3,7 +3,7 @@ title: "Collective Intelligence"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: /assets/images/commchannel.png
+image: /assets/images/dougengelbart.jpg
 headerImage: true
 tag:
 - markdown
