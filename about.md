@@ -7,10 +7,10 @@ layout: page
 <h2>Maximo Ayon Planes-Nakpil</h2>
 
 <h3><a href="https://mxnkpl.com/">MXNKPL.COM</a></h3>
-<p>Full-Stack Developer, Relentless Code Mechanic, Data Detective</p>
+<p>Designer, Developer & Dimensional Continuity Assembler </p>
 
 
-<p> How a hard headed developer adapted the essentials necessary to be a competent workhorse:
+<p> A reference to an evolving frameworks... 
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
 This blog is both a blog and a syllabus (byllogybus) to guide a developer like me who likes to learn via exploration. I dig into how coding works, by researching how we all came to the modernity we call today.

@@ -3,8 +3,8 @@ title: "Markdown Cheatsheet"
 draft: false
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/linuxcat.png
+headerImage: true
 tag:
 - markdown
 - elements
