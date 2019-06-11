@@ -65,10 +65,10 @@ Sign in with your developer credentials on the command line or add it to a file 
 ... Get auth
 You need to set your Spotify API credentials. You can do this by setting environment variables like so:
 
-export SPOTIPY_CLIENT_ID='your-spotify-client-id'
-export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
-export SPOTIPY_REDIRECT_URI='your-app-redirect-url'
-IMPORTANT: SPOTIPY_REDIRECT_URI='https://mxnkpl.com/'
+    > export SPOTIPY_CLIENT_ID='your-spotify-client-id'
+    > export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
+    > export SPOTIPY_REDIRECT_URI='your-app-redirect-url'
+    > IMPORTANT: SPOTIPY_REDIRECT_URI='https://mxnkpl.com/'
 
 just dont forget the " / " after url, allows spotify to redirect api request.
 When you run Statipy, it saves your developer credentials entered in CLI into a username variable,
@@ -78,22 +78,31 @@ and the scope variable is defined when it runs this part of the code:
 
 ### Asks for permission to get current users playlists:
 
-scope = "user-read-private user-read-email user-library-read playlist-read-private playlist-read-collaborative"
+    > scope = "user-read-private user-read-email user-library-read playlist-read-private playlist-read-> collaborative"
 ### Spotipy function that keeps you authorized saved into token variable:
 
-token = util.prompt_for_user_token(username, scope)
+    > token = util.prompt_for_user_token(username, scope)
+
 Command line / IDE should now retrieve current users data.
+
+>
 Playlists - Name and Total tracks
 Tracks - Song Info from each playlist
 Artist - Artist Info from each track
 Album - Album Info from each track
 Running statipy_analyzer.py
 python statipy_analyzer.py [username]
+
+
+
 Statipy analyzer will run in any package that contains:
 
-__init__.py
+> __init__.py
+
 and
-config.py
+
+> config.py
+
 in its folder.
 
 As step 5 states: you must create your own config.py file to run locally with same export syntax for CLI.
@@ -107,4 +116,4 @@ of current users saved, public, private and followed playlists.
 The objective is to analyze the frequency of objects and find patterns in the saved data that could be used to improve playlist content and Spotify user experience.
 
 
-[Statipy Project on Github - Try it yourself!](https://github.com/mxayon/statipy)
+[Statipy Project on Github](https://github.com/mxayon/statipy)
