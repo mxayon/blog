@@ -68,15 +68,28 @@ Depending on the need, the objectives of the storyline or branch fragments are d
 Free-Line is where the knowledge of what to do with the footage comes into play, its best to plot out a plan first to avoid unnecessary crashes.
 A well discussed wire-frame, story-board or story plot maybe sufficient intra-framework if trust is encapsulated in a fortified incremental feedback cycle.
 The opportunity to evolve from "real-time" constructive criticism will propel
-3 factors: 1) Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
-with unsupervised footage.
+3 factors:
+1) Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
+with unsupervised footage. Free line can use or reject these rules to sculpture the experience.
+2) Footage improvements - specifically if 2-3 more feedback cycles are implemented during footage capture phase to improve purposeful decision making on a macro still frame scale.
+3) Template has it's own dynamically evolving relationships when Template-timing is considered. As you can see the divisions / time cuts as the footage capture phase happens fast in real time. I learned how to get a better sense of how to stretch things with the angle to suggest a continuation of a concept or feeling (or object).
+
+> Edward Tufte talks about how PowerPoint was used by NASA engineers in the events leading to the Space Shuttle Columbia disaster. The software style is designed to persuade rather than to inform people of technical details. Tufte's analysis of a NASA PowerPoint slide is included in the Columbia Accident Investigation Board’s report—including an engineering detail buried in small type on a crowded slide with six bullet points, that if presented in a regular engineering white paper, might have been noticed and the disaster prevented.
+[Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)
+
+- I think the missing factor to persuasion is repetition. Continuity as an extension of a 2- dimensional design objective, if only the one "object" of mis-persuaded could have been stretched on either screen time depth or repetition and variation.
+
+
 The key to working with unsupervised data is to analyze it first, take note of ["usuable"][1] segments.
 
 ## Project Objectives
-Free-Line is independent to content archive. Dependent on a story board to create new footage,
-typical ideation stage needs its own feedback stage. Each footage capture goes through its incremental approach
-of sanity checks and experimentation to improve on each fragment of the story line. I think of it as the TDD
-to creating the final product. Each clip is processed before storage phase.
+Free-Line is independent to content archive.
+Dependent on a story board to create new footage,
+typical ideation stage needs its own feedback stage.
+Each footage capture goes through its incremental approach
+of sanity checks and experimentation to improve on each fragment of the story line.
+I think of it as the TDD, to creating the final product.
+Each clip is processed before storage phase.
 
 Template format is mostly dependent on your storage. Additional data is gathered to support objectives.
 Typically, Event, Subject or Archive based projects are requests from viewer or message conveyer where it is
