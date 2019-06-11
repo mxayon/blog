@@ -114,17 +114,18 @@ Interestingly enough, if the transition or footage cut (if you'd like a sharp ef
 is set on the down beat, it creates a seamless effect. Manually storing and labelling
 data gives you the advantage of predicting which clips to prioritize or repurpose. Sometimes there is a subset of unusable clips
 that could be repurposed to assist the theme. The result of repurposed clips are usually polarized, usually a decision
-between sacrificing quality over production time & space complexities.
+between sacrificing quality over production time & space complexities and rendering downtime.
 
 Repurposing the footage via dimensions or effects, can be used to build the intro and resolution.
 Repurposing runs up a lot of rendering time, compression errors are usually the biggest reason of system crashes and unsaved work.
-Repurposed files with dimensions on effects has always been a breaking point to the render engine.
+Repurposed files with 2/ more layers with effects can put a heavy load on the render engine.
 Repurposing effects shifts color, mood and theme, and can be used as effective story telling tool but a de-facto attachment to
 effects is hard to cure like a moth to a flame..
-Repurposing with dimension can have parallel running stories making more connections. There's length of clip in seconds, there's grid dimension
-on the 2d plane, the 3rd dimension or layer is the depth.
+Repurposing with dimension can have parallel running stories making more connections. There's length of clip in seconds, there's a grid dimension
+on the 2d plane, the 3rd dimension or layer is the depth in layers (or the layer cake).
+Timing multiple effects on each layer of the layer cake can open up "the sweet spot" to invoke a change in story, theme, mood, to ingrate seamlessly to next frame - depending on how compatible the change is to the transitional effect given by the fade - in fade out movement.
 
-Repurposed files that work can be a good resource in any other related projects.
+Repurposed files that work can be a good resource in any other related projects. When labelling repurposed effect, what to prioritize in the label convention will help the archival process in the future.
 
 
 ## Content / Data:
