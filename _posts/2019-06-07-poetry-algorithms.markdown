@@ -6,7 +6,7 @@ date: 2019-06-07 11:11
 image: /assets/images/fibopythagoreanspiral.png
 headerImage: true
 tag:
-- markdown
+- receptivity
 - elements
 star: true
 category: blog
@@ -31,6 +31,7 @@ Oppenheimer working on the atom bomb. And Von Neuman - who used game theory for 
 The Turing degree (named after Alan Turing) or degree of un-solvability of a set of natural numbers measures the level of algorithmic un-solvability of the set..
 [Turing Degree](https://en.wikipedia.org/wiki/Turing_degree) evolved into the turing test.
 
+Constructivism
 Default Operations
 * Survivability - motion and event, spontaneous alternation, and principle of least effort. (crisis mode)
 * Creative Operations - cognitive functions, tool making, figurative thinking, primitive learning and creativity.
