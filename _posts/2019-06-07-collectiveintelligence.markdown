@@ -4,7 +4,7 @@ draft: false
 layout: post
 date: 2019-06-07 11:11
 image: /assets/images/commchannel.png
-headerImage: false
+headerImage: true
 tag:
 - markdown
 - elements
