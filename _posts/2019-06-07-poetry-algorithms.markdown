@@ -3,7 +3,7 @@ title: "Poetry in Algorithms"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg
+image: https://flic.kr/p/hhNRg
 headerImage: true
 tag:
 - receptivity
