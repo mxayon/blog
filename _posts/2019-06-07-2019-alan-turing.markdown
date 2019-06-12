@@ -3,7 +3,7 @@ title: "Alan Mathison Turing"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: turing.jpg
+image: assets/images/turing.jpg
 headerImage: true
 tag:
 - markdown
@@ -31,10 +31,10 @@ He was talking about his love for Snow White a few weeks before he killed himsel
 
 ---
 
-> “I'm afraid that the following syllogism may be used by some in the future.
-    - Turing believes machines think
-    - Turing lies with men
-    - Therefore machines do not think
+> “I'm afraid that the following syllogism may be used by some in the future. <br>
+    - Turing believes machines think <br>
+    - Turing lies with men  <br>
+    - Therefore machines do not think <br>
 Yours in distress,
  Alan”
       ― Alan Turing
