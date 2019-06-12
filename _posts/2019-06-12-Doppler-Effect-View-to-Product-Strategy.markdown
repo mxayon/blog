@@ -1,6 +1,6 @@
 ---
 title: "Doppler Effect View to Product Strategy"
-draft: true
+draft: false
 layout: post
 date: 2019-06-12 11:11
 image: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F12%2Fexpansionoftuniverse.jpg
@@ -12,7 +12,7 @@ tag:
 star: true
 category: blog
 author: maximonakpil
-description: A “Doppler Effect” view to product strategy…
+description: A “Doppler Effect” view to Product Strategy…
 ---
 
 ## Product Organisms
