@@ -3,7 +3,7 @@ title: "BYLLOGYBUS"
 draft: false
 layout: post
 date: 2019-05-09 11:11
-image: /assets/images/linuxcat.jpg
+image: assets/images/linuxcat.jpg
 headerImage: true
 tag:
 - markdown

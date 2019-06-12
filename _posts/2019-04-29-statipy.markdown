@@ -3,7 +3,7 @@ title: "STATIPY"
 draft: false
 layout: post
 date: 2019-04-29 11:11
-image: /assets/images/bulbasaurspotify.png
+image: assets/images/bulbasaurspotify.png
 headerImage: true
 tag:
 - markdown

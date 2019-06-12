@@ -3,7 +3,7 @@ title: "Count Dracula"
 draft: true
 layout: post
 date: 2019-05-11 11:11
-image: /assets/images/markdown.jpg
+image: assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown

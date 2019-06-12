@@ -3,7 +3,7 @@ title: "Poetry in Algorithms"
 draft: true
 layout: post
 date: 2019-06-07 11:11
-image: /assets/images/fibopythagoreanspiral.png
+image: assets/images/fibopythagoreanspiral.png
 headerImage: true
 tag:
 - receptivity
@@ -16,20 +16,26 @@ description: A rhythm and pattern in rules.
 
 ## Why
 
-We are evolving and must think the same as the end receiver of the communication channel, the influx of data accelerating increases the thirst for more..
-
+We are evolving and must think the same as the end receiver of the communication channel, the influx of data accelerating increases the consumption rate we're used to..
 
 ---
 
 Cogito Ergo Sum, the self realizing logic that instantiates an object to existence in the same form
 poetry sets a feeling moving.
-Expounding on this principle, in a self actualizing sense, imagine how Von Neumann felt or
-Oppenheimer working on the atom bomb. And Von Neuman - who used game theory for [Zero-sum Game](https://en.wikipedia.org/wiki/Zero-sum_game) during the cold war and came up with a system of "Mutually Assured Destruction" - which then paved way for the internet today.
 
-[Von Neumann-book](https://books.google.com/books?id=2-PeDQAAQBAJ&pg=PA8&lpg=PA8&dq=self+actualization+von+neumann&source=bl&ots=0yT0NkPSTl&sig=ACfU3U1MPr7F7pvcjtnBs9gP98Wayb0i3Q&hl=en&sa=X&ved=2ahUKEwj8ycjS6uDiAhUBHDQIHUnyB5o4ChDoATAAegQICRAB#v=onepage&q=self%20actualization%20von%20neumann&f=false) working on the cellular automata. Conway's "Game of Life" and Stephen Wolfram knows that interactive algorithms are more important than the underlying mathemathical equations.  The spatial and temporal interaction among entities is key to understanding their complexity.
+Von Neumann - who created game theory -  [Zero-sum Game](https://en.wikipedia.org/wiki/Zero-sum_game) during the cold war and came up with a system of "Mutually Assured Destruction" - which was the start of the internet today.
+
+[Von Neumann-book](https://books.google.com/books?id=2-PeDQAAQBAJ&pg=PA8&lpg=PA8&dq=self+actualization+von+neumann&source=bl&ots=0yT0NkPSTl&sig=ACfU3U1MPr7F7pvcjtnBs9gP98Wayb0i3Q&hl=en&sa=X&ved=2ahUKEwj8ycjS6uDiAhUBHDQIHUnyB5o4ChDoATAAegQICRAB#v=onepage&q=self%20actualization%20von%20neumann&f=false) Conway's "Game of Life" and Stephen Wolfram knows that interactive algorithms are more important than the underlying mathemathical equations.  The spatial and temporal interaction among entities is key to understanding their complexity.
+
+> Instinctive computing aims to combine primitive problem-solving strategies with instinctive cognition to solve the evolving cybernetics problems in the digital age such as autonomous robots, data intelligence, security and privacy.
+
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=2-PeDQAAQBAJ&lpg=PA8&ots=0yT0NkPSTl&dq=self%20actualization%20von%20neumann&pg=PR2&output=embed" width=500 height=500></iframe>
+***
 
 The Turing degree (named after Alan Turing) or degree of un-solvability of a set of natural numbers measures the level of algorithmic un-solvability of the set..
 [Turing Degree](https://en.wikipedia.org/wiki/Turing_degree) evolved into the turing test.
+
+His version of self-singularity develops in a construtivism sense.
 
 Constructivism
 Default Operations
@@ -39,10 +45,6 @@ Default Operations
 * Self-Awareness - self-recognition for self or non-self identification, self-replication, sensuality and euphoria.
 *divisions are not absolute*
 
-> Instinctive computing aims to combine primitive problem-solving strategies with instinctive cognition to solve the evolving cybernetics problems in the digital age such as autonomous robots, data intelligence, security and privacy.
-
-<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=2-PeDQAAQBAJ&lpg=PA8&ots=0yT0NkPSTl&dq=self%20actualization%20von%20neumann&pg=PR2&output=embed" width=500 height=500></iframe>
-***
 
 
 Constructivism covers the philosophical dimension in Self-Singular systems by asking how human intelligence has evolved over time. The pinnacle moments are when the new paved ways sync up to new things.
@@ -90,4 +92,16 @@ Despite the differences of each position along these two dimensions, each constr
 * Language is an important element in the learning process, and
 * The learning environment should be learner-centred.
 
-Ultra enlightening article [Radical Pedagogy](http://radicalpedagogy.icaap.org/content/issue1_2/02kanuka1_2.html)
+Reference: [Radical Pedagogy](http://radicalpedagogy.icaap.org/content/issue1_2/02kanuka1_2.html)
+
+
+* Another example of Neumann working withpartners and conflicting principles. [Tesla & Von Neumann][http://hans.wyrdweb.eu/about-hole-time-crazy-experiments-nikola-tesla-and-john-von-neumann-created-many-legends-and-movies/]
+
+Interestingly enough as opposite as [Turing's mind is to Von Neumanns](https://stackoverflow.com/questions/2782014/turing-machine-vs-von-neuman-machine) the Von Neumann architechture was built from the Turing machine. [Spotting patterns](https://www.samcodes.co.uk/project/game-of-life/) and the birth of the computer age.
+
+In Copenhagen, the quantum meet up with the introduction of atomic theory, the Von Neuman and Einsteins debates,
+["God Does Not Play Dice"](https://turingchurch.net/riddled-with-gaps-how-the-old-one-plays-at-dice-3ac692ce2892) often called Einstein's biggest blunder - undoubtably chaos theory shifted the game into what Turing had envisioned, AI.
+
+As chaotic as the weather, a linear approach fails to predict the cycles we get trapped into..
+
+ > Tommaso Toffoli, a quantum computer researcher, puts it best: "In a sense, nature has been continually computing the 'next state' of the universe for billions of years; all we have to do — and, actually, all we can do — is 'hitch a ride' on this huge, ongoing Great Computation."

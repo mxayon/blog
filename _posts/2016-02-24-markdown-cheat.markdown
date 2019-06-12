@@ -3,7 +3,7 @@ title: "Markdown Cheatsheet"
 draft: false
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/linuxcat.png
+image: assets/images/linuxcat.png
 headerImage: true
 tag:
 - markdown

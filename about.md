@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h2>Maximo Ayon Planes-Nakpil</h2>
+<h2>Maximo Ayon Nakpil</h2>
 
 <h3><a href="https://mxnkpl.com/">MXNKPL.COM</a></h3>
 <p>Designer, Developer & Dimensional Continuity Assembler </p>
@@ -25,7 +25,6 @@ Through the discipline instilled through an engineering way of learning, I was z
 </p>
 <p>
 This is a journal of notes - Travel Logging, making a database of interwingular backup-plans to defy the odds when the timing is strategic.
-(Since it is a travel log I would like to grow from corrections! If anyone else learns best in a  [Visual-Spatial](http://www.visualspatial.org/vsi.php) way.. - this explains how this naming convention helps out. )
 </p>
 
 <h2>Hands:</h2>

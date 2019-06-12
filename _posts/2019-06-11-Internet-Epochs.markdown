@@ -3,7 +3,7 @@ title: "Internet Epochs"
 draft: false
 layout: post
 date: 2019-06-11 22:44
-image: /assets/images/eniacico.png
+image: assets/images/eniacico.png
 headerImage: true
 tag:
 - evolution
