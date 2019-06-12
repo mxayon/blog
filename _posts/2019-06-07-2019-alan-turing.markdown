@@ -3,7 +3,7 @@ title: "Alan Mathison Turing"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: assets/images/turing.jpg
+image: images/turing.jpg
 headerImage: true
 tag:
 - markdown
@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: My favorite person.
 ---
-![Surprise and Frequency](/assets/images/at-machines.png)
+![Surprise and Frequency](images/at-machines.png)
 ## Alan Turing as an inspiration
 
 As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
@@ -42,7 +42,7 @@ Yours in distress,
 ---
 
 ![Alan Turing's Sentence](/assets/images/at-sentence.png)
-Found Here: [Turing's Sentence][https://www.turing.org.uk/sources/sentence.html]
+Found Here: [Turing's Sentence](https://www.turing.org.uk/sources/sentence.html)
 ---
 
 ## Boole and Ramanujan
