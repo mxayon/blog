@@ -3,7 +3,7 @@ title: "Poetry in Algorithms"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: https://flic.kr/p/hhNRg
+image: https://www.sunnysports.com/blog/wp-content/uploads/2017/11/leaves.jpg
 headerImage: true
 tag:
 - receptivity
