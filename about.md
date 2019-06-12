@@ -4,10 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h2>Maximo Ayon Nakpil</h2>
 
 <h3><a href="https://mxnkpl.com/">MXNKPL.COM</a></h3>
-<p>Designer, Developer & Dimensional Continuity Assembler </p>
+<p>Maximo Ayon Nakpil</p>
+<p>Cross-Dimensional Designer - Developer | Continuity Assembler </p>
 
 
 <p> A reference to an evolving frameworks...
@@ -24,7 +24,7 @@ design ties in all the underlying principles is the real key.
 Through the discipline instilled through an engineering way of learning, I was zooming in and out of Science of Information Technology courses. (A really big repository of information is available with an amazon prime membership actually, I highly recommend their documentaries.)
 </p>
 <p>
-This is a journal of notes - Travel Logging, making a database of interwingular backup-plans to defy the odds when the timing is strategic.
+This is a journal of notes - Travel Logging, making a database of inter-wingular backup-plans to defy the odds when the timing is strategic.
 </p>
 
 <h2>Hands:</h2>
