@@ -28,15 +28,12 @@ von Neumann - who created game theory -  [Zero-sum Game](https://en.wikipedia.or
 
 > Instinctive computing aims to combine primitive problem-solving strategies with instinctive cognition to solve the evolving cybernetics problems in the digital age such as autonomous robots, data intelligence, security and privacy.
 
-<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=2-PeDQAAQBAJ&lpg=PA8&ots=0yT0NkPSTl&dq=self%20actualization%20von%20neumann&pg=PR2&output=embed" width=500 height=500></iframe>
-
-
 ***
 
 The Turing degree (named after Alan Turing) or degree of un-solvability of a set of natural numbers measures the level of algorithmic un-solvability of the set..
 [Turing Degree](https://en.wikipedia.org/wiki/Turing_degree) evolved into the turing test.
 
-His version of self-singularity develops in a construtivism sense.
+His version of self-singularity develops in a constructivism sense.
 
 Constructivism
 Default Operations
