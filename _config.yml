@@ -1,6 +1,6 @@
 # main text of home
 name: Maximo Nakpil
-bio: Cross-Dimensional Designer | Continuity Assembler | Constructivism Developer
+bio: Cross-Dimensional Designer - Developer | Continuity Assembler
 
 # twitter summary info
 description:
@@ -58,7 +58,7 @@ authors:
         name: Max Nakpil
         bio: Mad Scientist, Continuity Assembler
         external-image: false
-        picture: assets/images/lcat.png
+        picture: assets/images/maxweb.png
         twitter: mxayon
         github: mxayon
 
