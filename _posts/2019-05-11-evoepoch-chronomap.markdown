@@ -3,7 +3,7 @@ title: "Nexus of Innovation: Evolutionary Epochs"
 draft: false
 layout: post
 date: 2019-06-10 11:11
-image: assets/images/00chronomap.jpg
+image: https://mxnkpl.com/img/alarm-clock.png
 headerImage: true
 tag:
 - markdown
