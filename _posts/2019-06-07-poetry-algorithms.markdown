@@ -3,7 +3,7 @@ title: "Poetry in Algorithms"
 draft: false
 layout: post
 date: 2019-06-07 11:11
-image: assets/images/fibopythagoreanspiral.png
+image: https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg
 headerImage: true
 tag:
 - receptivity
@@ -13,7 +13,6 @@ category: blog
 author: maximonakpil
 description: A rhythm and pattern in rules.
 ---
-
 ## Why
 
 We are evolving and must think the same as the end receiver of the communication channel, the influx of data accelerating increases the consumption rate we're used to..
@@ -30,6 +29,8 @@ von Neumann - who created game theory -  [Zero-sum Game](https://en.wikipedia.or
 > Instinctive computing aims to combine primitive problem-solving strategies with instinctive cognition to solve the evolving cybernetics problems in the digital age such as autonomous robots, data intelligence, security and privacy.
 
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=2-PeDQAAQBAJ&lpg=PA8&ots=0yT0NkPSTl&dq=self%20actualization%20von%20neumann&pg=PR2&output=embed" width=500 height=500></iframe>
+
+
 ***
 
 The Turing degree (named after Alan Turing) or degree of un-solvability of a set of natural numbers measures the level of algorithmic un-solvability of the set..
