@@ -29,7 +29,7 @@ This is a journal of notes - Travel Logging, making a database of inter-wingular
 
 <h2>Hands:</h2>
 <ul class="skill-list">
-	<li> Right: Mechanical Pencil and Paper</li>
+	<li> Right: Mechanical Pencil and Paper | Blank Slate</li>
 	<li>Left: AdobeCreative Illustrator, Photoshop or Camera</li>
 </ul>
 
