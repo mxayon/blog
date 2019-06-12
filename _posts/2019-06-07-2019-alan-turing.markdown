@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: My favorite person.
 ---
-![Surprise and Frequency](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj_9NaQ2uTiAhUKw1QKHTGjBywQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F136445063681040814%2F&psig=AOvVaw3eexiVa0HHZboD4friHwkc&ust=1560454997709103)
+![Surprise and Frequency](https://www.wordsonimages.com/pics/51718-o.jpg)
 ## Alan Turing as an inspiration
 
 As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
@@ -41,7 +41,7 @@ Yours in distress,
 
 ---
 
-![Alan Turing's Sentence](/assets/image/at-sentence.png)
+![Alan Turing's Sentence](https://www.turing.org.uk/sources/pi2/sentencesm.png)
 Found Here: [Turing's Sentence](https://www.turing.org.uk/sources/sentence.html)
 ---
 
