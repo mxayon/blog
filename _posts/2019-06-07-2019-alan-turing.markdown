@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: My favorite person.
 ---
-![Surprise and Frequency](./assets/images/at-machines.png)
+![Surprise and Frequency](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj_9NaQ2uTiAhUKw1QKHTGjBywQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F136445063681040814%2F&psig=AOvVaw3eexiVa0HHZboD4friHwkc&ust=1560454997709103)
 ## Alan Turing as an inspiration
 
 As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
@@ -36,7 +36,7 @@ He was talking about his love for Snow White a few weeks before he killed himsel
     - Turing lies with men  <br>
     - Therefore machines do not think <br>
 Yours in distress,
- Alan”
+ Alan” <br>
       ― Alan Turing
 
 ---
