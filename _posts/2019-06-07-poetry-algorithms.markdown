@@ -1,6 +1,6 @@
 ---
 title: "Poetry in Algorithms"
-draft: true
+draft: false
 layout: post
 date: 2019-06-07 11:11
 image: assets/images/fibopythagoreanspiral.png
@@ -23,9 +23,9 @@ We are evolving and must think the same as the end receiver of the communication
 Cogito Ergo Sum, the self realizing logic that instantiates an object to existence in the same form
 poetry sets a feeling moving.
 
-Von Neumann - who created game theory -  [Zero-sum Game](https://en.wikipedia.org/wiki/Zero-sum_game) during the cold war and came up with a system of "Mutually Assured Destruction" - which was the start of the internet today.
+von Neumann - who created game theory -  [Zero-sum Game](https://en.wikipedia.org/wiki/Zero-sum_game) during the cold war and came up with a system of "Mutually Assured Destruction" - which was the start of the internet today.
 
-[Von Neumann-book](https://books.google.com/books?id=2-PeDQAAQBAJ&pg=PA8&lpg=PA8&dq=self+actualization+von+neumann&source=bl&ots=0yT0NkPSTl&sig=ACfU3U1MPr7F7pvcjtnBs9gP98Wayb0i3Q&hl=en&sa=X&ved=2ahUKEwj8ycjS6uDiAhUBHDQIHUnyB5o4ChDoATAAegQICRAB#v=onepage&q=self%20actualization%20von%20neumann&f=false) Conway's "Game of Life" and Stephen Wolfram knows that interactive algorithms are more important than the underlying mathemathical equations.  The spatial and temporal interaction among entities is key to understanding their complexity.
+[von Neumann-book](https://books.google.com/books?id=2-PeDQAAQBAJ&pg=PA8&lpg=PA8&dq=self+actualization+von+neumann&source=bl&ots=0yT0NkPSTl&sig=ACfU3U1MPr7F7pvcjtnBs9gP98Wayb0i3Q&hl=en&sa=X&ved=2ahUKEwj8ycjS6uDiAhUBHDQIHUnyB5o4ChDoATAAegQICRAB#v=onepage&q=self%20actualization%20von%20neumann&f=false) Conway's "Game of Life" and Stephen Wolfram knows that interactive algorithms are more important than the underlying mathemathical equations.  The spatial and temporal interaction among entities is key to understanding their complexity.
 
 > Instinctive computing aims to combine primitive problem-solving strategies with instinctive cognition to solve the evolving cybernetics problems in the digital age such as autonomous robots, data intelligence, security and privacy.
 
@@ -99,9 +99,44 @@ Reference: [Radical Pedagogy](http://radicalpedagogy.icaap.org/content/issue1_2/
 
 Interestingly enough as opposite as [Turing's mind is to Von Neumanns](https://stackoverflow.com/questions/2782014/turing-machine-vs-von-neuman-machine) the Von Neumann architechture was built from the Turing machine. [Spotting patterns](https://www.samcodes.co.uk/project/game-of-life/) and the birth of the computer age.
 
-In Copenhagen, the quantum meet up with the introduction of atomic theory, the Von Neuman and Einsteins debates,
+In Copenhagen, the quantum meet up with the introduction of atomic theory, the von Neuman and Einsteins debates,
 ["God Does Not Play Dice"](https://turingchurch.net/riddled-with-gaps-how-the-old-one-plays-at-dice-3ac692ce2892) often called Einstein's biggest blunder - undoubtably chaos theory shifted the game into what Turing had envisioned, AI.
 
 As chaotic as the weather, a linear approach fails to predict the cycles we get trapped into..
 
  > Tommaso Toffoli, a quantum computer researcher, puts it best: "In a sense, nature has been continually computing the 'next state' of the universe for billions of years; all we have to do — and, actually, all we can do — is 'hitch a ride' on this huge, ongoing Great Computation."
+
+ No disrespect to the great minds that have connected the pieces together, but in a philosophical sense, Turing understood the consturctivst nature of life as he believed in human intelligence while Von Neumann on the other hand did not have Turing's vision..
+
+[Von Neumann Quotes:](https://todayinsci.com/V/VonNeumann_John/VonNeumannJohn-Quotations.htm)
+
+ >When we talk mathematics, we may be discussing a secondary language built on the primary language of the nervous system.
+
+ >Furthermore, it’s equally evident that what goes on is actually one degree better than self-reproduction, for organisms appear to have gotten more elaborate in the course of time. Today's organisms are phylogenetically descended from others which were vastly simpler than they are, so much simpler, in fact, that it’s inconceivable, how any kind of description of the latter, complex organism could have existed in the earlier one. It’s not easy to imagine in what sense a gene, which is probably a low order affair, can contain a description of the human being which will come from it. But in this case you can say that since the gene has its effect only within another human organism, it probably need not contain a complete description of what is to happen, but only a few cues for a few alternatives. However, this is not so in phylogenetic evolution. That starts from simple entities, surrounded by an unliving amorphous milieu, and produce, something more complicated. Evidently, these organisms have the ability to produce something more complicated than themselves.
+— John von Neumann
+From lecture series on self-replicating machines at the University of Illinois, Lecture 5 (Dec 1949), 'Re-evaluation of the Problems of Complicated Automata—Problems of Hierarchy and Evolution', Theory of Self-Reproducing Automata (1966).
+
+>The other line of argument, which leads to the opposite conclusion, arises from looking at artificial automata. Everyone knows that a machine tool is more complicated than the elements which can be made with it, and that, generally speaking, an automaton A, which can make an automaton B, must contain a complete description of B, and also rules on how to behave while effecting the synthesis. So, one gets a very strong impression that complication, or productive potentiality in an organization, is degenerative, that an organization which synthesizes something is necessarily more complicated, of a higher order, than the organization it synthesizes. This conclusion, arrived at by considering artificial automaton, is clearly opposite to our early conclusion, arrived at by considering living organisms.
+— John von Neumann
+From lecture series on self-replicating machines at the University of Illinois, Lecture 5 (Dec 1949), 'Re-evaluation of the Problems of Complicated Automata—Problems of Hierarchy and Evolution', Theory of Self-Reproducing Automata (1966).
+
+[Blank-State/ Tabula-Rasa Computing](https://www.newworldencyclopedia.org/entry/Tabula_rasa)
+In reality, autonomous agents are provided with an initial data set or knowledge base, but this should not be immutable or it will hamper autonomy and heuristic ability. Even if the data set is empty, it can usually be argued that there is an in-built bias in the reasoning and planning mechanisms. Either intentionally or unintentionally placed there by the human designer, it thus negates the true spirit of tabula rasa.
+
+Generally people now recognize the fact that most of the brain is indeed preprogrammed and organized in order to process sensory input, motor control, emotions and natural responses. These preprogrammed parts of the brain then learn and refine their ability to perform their tasks. The only true clean slate in the brain is the neo-cortex. This part of the brain is involved in thought and decision-making and is strongly linked with the amygdala. The amygdala is involved in responses such as fight or flight and emotions and like other parts of the brain is largely "pre-programmed," but has space to learn within its "programming". The amygdala is important in that it has a strong influence over the neo-cortex. There is much debate as to whether the amygdala prevents the neo-cortex from being defined as a clean slate.
+
+Or more recent studies in Switzerland in 2005 after reverse engineering the mamalian brain...
+[Blue Brain Project](https://en.wikipedia.org/wiki/Blue_Brain_Project)
+
+
+This von Neumann Quote:
+> There's no sense in being precise when you don't even know what you're talking about.
+    -  [Jonh von Neumann](https://www.brainyquote.com/quotes/john_von_neumann_137953)
+
+>  “Since I am neither a neurologist nor a psychiatrist, but a mathematician, the work that follows requires some explanation and justification.”
+    ― John von Neumann, The Computer and the Brain
+
+***
+
+
+ A linear digital revolution with unimagined outcomes vs a sentient intentional - life cycling - digital revolution, prioritizing the connections between human life-forms. Our understanding of artificial intelligence grows as we understand and appreciate human intelligence as well, and give it the reverence and authority it is capable of..  
