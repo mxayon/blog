@@ -1,8 +1,8 @@
 ---
-title: "Count Dracula"
+title: "Online Tools Cheatsheet"
 draft: true
 layout: post
-date: 2019-05-11 11:11
+date: 2019-06-12 11:11
 image: assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -11,20 +11,18 @@ tag:
 star: true
 category: blog
 author: maximonakpil
-description: A Python Package for counting word frequencies
+description: A tool repository for building cross-dimensional things.
 ---
 
-## Basic formatting
+## Color
 
-.get()
+[Adobe Color Wheel](https://color.adobe.com/create)
+
+[Color Hex Wiki](https://www.color-hex.com)
+
+[Color to Hex Converter Block](https://bl.ocks.org/njvack/02ad8efcb0d552b0230d)
 
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
 
 ---
