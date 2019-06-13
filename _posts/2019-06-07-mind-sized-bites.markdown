@@ -70,14 +70,14 @@ Free-Line is where the knowledge of what to do with the footage comes into play,
 A well discussed wire-frame, story-board or story plot maybe sufficient intra-framework if trust is encapsulated in a fortified incremental feedback cycle.
 The opportunity to evolve from "real-time" constructive criticism will propel
 3 factors:
-1) Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
+1. Unlike the Free-Line that may or may not adapt the template convention, template format is used for crafting with specific objectives that are optimized to convey broken down concepts
 with unsupervised footage. Free line can use or reject these rules to sculpture the experience.
-2) Footage improvements - specifically if 2-3 more feedback cycles are implemented during footage capture phase to improve purposeful decision making on a macro still frame scale.
-3) Template has it's own dynamically evolving relationships when Template-timing is considered. As you can see the divisions / time cuts as the footage capture phase happens fast in real time. I learned how to get a better sense of how to stretch things with the angle to suggest a continuation of a concept or feeling (or object).
+2. Footage improvements - specifically if 2-3 more feedback cycles are implemented during footage capture phase to improve purposeful decision making on a macro still frame scale.
+3. Template has it's own dynamically evolving relationships when Template-timing is considered. As you can see the divisions / time cuts as the footage capture phase happens fast in real time. I learned how to get a better sense of how to stretch things with the angle to suggest a continuation of a concept or feeling (or object).
 
 
 
-The key to working with unsupervised data is to analyze it first, take note of ["usuable"][1] segments.
+The key to working with unsupervised data is to analyze it first, take note of "Scratch" or unusable segments.
 
 ## Project Objectives
 Free-Line is independent to content archive.
@@ -142,34 +142,35 @@ Unsupervised
   the shots reduces review time significantly. As well as setting up an automatic feedback process to instantiate data
   gathering cycle.
 
-[1][Usuable]: Here are some simple rules to follow for knowing usuable data. (video footage)
-      a. Exposure - daytime shooting offers great light for subject but video is over exposed if background is
+---
+
+#### "Scratch" Segments: Here are some simple rules to follow for knowing usuable data. (video footage)
+1. Exposure - daytime shooting offers great light for subject but video is over exposed if background is
       washed out. Constantly recalibrating angles affects the color and quality of the shot. Experimentation
       in similar settings is necessary during capturing unsupervised data. Knowing what to take from the experiment
       as well only got better after finding the right question to research. Knowing photography, in order to know when to
       adapt its rules to your moment, on a macro scale. (I practiced in a moving car when I first started.)
         * I noticed that owning a video or product from ideation to creation helps retain a sense of objectivity between
         the work and art compromise regardless of task.
-      b. Subjects - should be prioritized by project objectives.
+2. Subjects - should be prioritized by project objectives.
       Its good to have sets of single subject footage labeled for accessible order. The order of supervised data
       labelling depends on subject - communication goal order. If clip has less than 3 visible subjects, it's best to
       label all. Usually more than 6 is a good rule of thumb for compiling subjects to a label, unless you want to use a cryptic
       abreviation for subjects depending on what you want to keep track of.
-    Compound Subjects are more likely reusable in multiple projects,
-      establishing your rules for your data organization is an important foot hold.
+> Compound Subjects are more likely reusable in multiple projects, establishing your rules for your data organization is an important foot hold.
 
-### Subject Naming Guide
+#### Subject Naming Guide
 - Single Subj. label: Noun, Object. Footage is typically human focused. ** Mostly pancake lenses with small aperture
          are best for high resolution portrait type solos.
 - Important to factor technological design decision of camera lens, type, angle, motion and lighting.
       * any results to experiments or change in lens, type, angle, motion or lighting can hold key elements to to improve the
         data gathering cycle.
 - Compound Subj. label - It's best to set rules early on.
-            a. Identify subjects with in footage for use or archive. Describe subjects from usable
-            portions of the clip.
-            b. Key words and organization makes sure observation does not get lost in abyss. If a really well composed artistic
-            shot I could use of a perfectly exposed popular location for example is labeled incorrectly during another project,
-            the results will not be the same.
+1. Identify subjects with in footage for use or archive. Describe subjects from usable
+portions of the clip.
+2. Key words and organization makes sure observation does not get lost in abyss. If a really well composed artistic
+shot I could use of a perfectly exposed popular location for example is labeled incorrectly during another project,
+the results will not be the same.
 ***
 
 ## Full Circle Resolution
@@ -188,4 +189,4 @@ Following these standards improve my craftsmanship each time.
 > Edward Tufte talks about how PowerPoint was used by NASA engineers in the events leading to the Space Shuttle Columbia disaster. The software style is designed to persuade rather than to inform people of technical details. Tufte's analysis of a NASA PowerPoint slide is included in the Columbia Accident Investigation Board’s report—including an engineering detail buried in small type on a crowded slide with six bullet points, that if presented in a regular engineering white paper, might have been noticed and the disaster prevented.
 [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)
 
-- I think the missing factor to persuasion is repetition. Continuity as an extension of a 2- dimensional design objective, only if the one "object" of mis-persuaded data could have been stretched on either screen time depth or repetition and variation of apperance on screen so that viewers wont deflect from it - aside from the data being too cramped.. (can't we use more than power point now?)
+- I think the missing factor to persuasion is repetition. Continuity as an extension of a 2- dimensional design objective, only if the one "object" of mis-persuaded data could have been stretched on either screen time depth or repetition and variation of apperance on screen so that viewers wont deflect from it - aside from the data being too cramped.. 
