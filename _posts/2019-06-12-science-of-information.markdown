@@ -13,9 +13,9 @@ category: blog
 author: maximonakpil
 description: Notes on exploring the science of information technology.
 ---
-*A Brief explanation on how my curiosity lead me here.*
+**A Brief explanation on how my curiosity lead me here.**
 <br>
-Researching on statistics and probability for a data science project, I came across this field had a lot of answers to how we measure the transfer knowledge and the mechanics of communication.
+Researching on statistics and probability for a data science project, I came across this field that had a lot of answers to how we measure the transfer of knowledge and the mechanics of communication.
 <br>
 Here are my notes so far...
 
