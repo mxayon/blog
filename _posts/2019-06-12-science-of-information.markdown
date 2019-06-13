@@ -1,9 +1,9 @@
 ---
 title: "Science of Information"
-draft: true
+draft: false
 layout: post
 date: 2019-06-12 11:11
-image: assets/images/markdown.jpg
+image: https://ichef.bbci.co.uk/childrens-responsive-ichef-ck/480xn/amz/cbbc/Science_Fact_Science_Fiction.jpg
 headerImage: false
 tag:
 - infobite
@@ -13,13 +13,208 @@ category: blog
 author: maximonakpil
 description: Notes on exploring the science of information technology.
 ---
+## A Brief Explanation of how my curiosity lead me here
+
+
 
 ## [Science of Information Technology: From Language to Black Holes](https://www.thegreatcourses.com/courses/the-science-of-information-from-language-to-black-holes.html)
 - From the Great Courses (available on Amazon Prime)
-
+* Currently on chapter 19: Turing and Algorithms
 ---
 
+### Evolution
+* Babbage and the Differential Analyzer
+* Ada Lovelace - 1815-1852 first computer programmer
+* Vanneuvar Bush 1931 - recreates babbage's Differential Analyzer
 
+* Claude Shannon - Builds computer out of logic gates from Boolean Logic.
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://www.nutsvolts.com/uploads/wygwam/NV_0407_Marston_Figure1.jpg">
+        <figcaption class="caption">[Logic Gate Symbols from nutvolts.com](https://www.nutsvolts.com/uploads/wygwam/NV_0407_Marston_Figure1.jpg)</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Logic Gates from Boolean Logic & Electric Circuits
+        <br> - 2 light switches 1 | 0
+        <br> John Napier - Logarithm Rules LOG2 (base algorithm)
+        </p>
+    </div>
+</div>
+
+#### MAXWELL'S DEMON
+![Maxwell's Demon Experiment](https://i.imgur.com/olsx3Bi.mp4)
+Natural Log - Information Entropy - Entropy in thermodynamics
+
+#### Hartley - Shannon Entropy
+* ENTROPY H - minimum # of bits required to represent the source.
+
+#### Probability (17th Century)
+RULES: (0 = Impossible; 1 = Certain)
+1. For Any X : <br>
+X, 0 ≤ P(X) ≤ 1
+<br>  0 - 1 = P(X)
+2. E (sum of all) P(X) = 1
+
+#### _ E T A O I N S H R D L U (common english letters)
+"Letter Probabilities" 19.3%
+* Surprise of a message
+* "Pre-fix Free Code Word" - no code word can be the 1st part of any other code word.
+* Average Code Word >= Entropy of Information Source
+* "HUFFMAN CODE" - Best pre-fix free code
+
+#### SHANNON'S FIRST FUNDAMENTAL THEOREM
+- Information Inequality relates to entropy to the number of bits to represent messages.
+Entropy H(X) of a source (the Average Surprise) equals the main average number of bits necessary to code messages from that source.
+
+#### DATA COMPRESSION
+* 1970s GZIP (Israel) - First Data Compression - Analyzes Text & Retruns Compressed File. - Images & Sound Encoding = Runline Encoding (through combination of frequencies)
+
+* 1990s JPEG, MPEG, PNG  - Joint Photographic Experts Group, Moving Pictures Experts Group, Portable Network Graphics.
+<br> 8x8 pixel block via Huffman Code
+<br> Video - 1 Frame = 2,000,000 Pixels - 3 bytes of color per pixel
+<br> 180 Million Bites of info per sec. (US - 30FPS | UK 25FPS) - Records difference from "P-Frame / Key-frame"
+
+* LOSSLESS
+
+#### Shannon's Second Fundamental Theorem:
+* "Communication Channel" (Input / Output)
+* Defeat Noise
+* As long as a channel capacity is not exceeded, then you dont have to communicate slower to be rid of errors.
+
+#### Richard Hamming - "Hamming Distance" (N, K values)
+* Distance from one code to another.
+* ENCODE : Hamming | Channel : 7, 4 | Error Correction : Binary Code | Decode : 1 Bit of Memory - Err Probability 10-14
+*1 radiation induced error per year!*
+
+#### Timeline of Computing Technology
+* 1725 Weaving Looms
+* 1804 Jacquard Loom - Charles Babbage - Jules Carpentier's Musical Melotrope
+* 1890 Herman Hollerith Data Processing - Punch Cards - US census - Tabulating Company (IBM)
+* 1954 Fortran IBM - John Backus | "IF / ELSE" - fortran statement
+* 8 BITS = 256 different combinations = BYTE
+* Binary -> Compiler -> Language
+* 1955 Grace Hopper (US Admiral) COBOL - Common Business Oriented Language - named after Blaise Pascal. "good tracking tool"
+* 1960 ASCII - American Standards Association creates ANSI (American National Standards Institute) which developed ASCII - American Standard Code for Information Interchange (character to binary)
+* 1969 Unix, Linux, Macos - Hacker hats (white: good | black: bad)
+* 1973 C Foundation
+* 2001 Lockheed Martin - F35 Stealth Fighter Jet - "M-LOCKS" - 8 million lines of code in C++
+* 2014 Swift / OBJ-C
+* TODAY = 700 Languages | GE powers turbines and highways | Robotics - CNC "Computer Numerically Controlled Lathes" (Milling machines)
+* Quantum Computing = manipulating state of electrons to process calculations faster.
+
+### BUILDING BLOCKS
+1. System Programming - OS, C++, Assembly language
+2. Architechtural Programming - Frameworks, Java, Microsoft.Net
+3. Application Programming - PHP, Ruby, Python, Web Browser
+4. Data Manipulation - My SQL, NoSQL, MongoDB
+
+#### Timeline of Information Theory
+* 1676 Order & Disorder - philosophy of engineering - heat - steam engines - "Napoleonic Wars"
+* 1824 "Reflections on the motive power of fire" by Nicholas Carnot - Hot - cold | change in temp = energy
+(dies of cholera and papers are burned)
+* Rudolph Calcius - Laws of thermodynamics - entropy = irreversable (meanwhile victorian scientists like Ernest Mach reject atomic theory)
+* 1844- 1906 Ludwig Boltzman - hot atoms move rapidly
+* ENTROPY = measures disorder of things
+* 1831 - 1879 JAMES CLARK MAXWELL "MAXWELLS DEMON" - sorting demon - trap door to a box with heat in motion.
+![Maxwell's Demon]()
+
+* 1948 Claude Shannon BELL labs - mathematical theory - bit = atom = 2 states
+* 1952 Turing - Morphogenisis, Embryo - clumps cells & form skin, self, organization - describes a living process. Found the same natural process in chemistry of nature with Boris Belusov's Human Sugar Consumption.
+* Bletchley Park WWII codebreaker [More on Alan Turing...](https://mxnkpl.com/blog/2019-alan-turing/)
+* 1960s Newtonian Physics - Precise predictions. Chaos Theory to predict weather - Edward Lorenz (meteorologist)
+* 1950s IBM, Benoit,  Mandelbrot set, "Thumbprint of God" - Turings Patterns - Belusov's Principles - Mandelbrot Fractals
+
+#### REED SOLOMON CODE
+Encode -> Interleave -> Channel -> De-Interleave -> Error Correction -> Decode
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Comparison_CD_DVD_HDDVD_BD.svg/2560px-Comparison_CD_DVD_HDDVD_BD.svg.png">
+        <figcaption class="caption">[By Cmglee - Own work, CC BY-SA 3.0]( https://commons.wikimedia.org/w/index.php?curid=21959547)</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Laser Diode scans Polycarbonate Transparent Plastic - Labeled Surface
+        <br> 1/2 Micron wide - Data Layer / "pits"
+        <br> Dust = Errors - Super Decoder
+        <br> SCHROEDER - "Perceptual Coding" - SINEWAVE - spatial frequencies (fourier transform for images)
+        </p>
+    </div>
+</div>
+
+![Laser Diode Scan Area](https://www.electroschematics.com/wp-content/uploads/2010/02/CD-Working.png)
+
+### SUPER CODER & SUPER CHANNEL
+OUTER CODER   ->  InterCoder  ->  RAW Channel -> Inner   ->   Outer   <br>
+Reed SOLOMON  ->  RS          ->                 Decoder      Decoder <br>
+28,24         ->  32,28       ->    <br>
+*Radial errors are easy to correct, CD = corrects 35,000 errors in 1 track*
+
+##### NASA using lossless compression adds Reed-Solomon code
+* Voyager - Mission to uranus and neptune - more precise data transactions due to error corrections.
+<br>
+<br>
+<br>
+
+#### FAR REACHING SIGNALS & BANDWITH
+
+<div class="side-by-side">
+    <div class="toleft">
+        <h3>DIGITAL</h3>
+        <p> Information in a finite number of discrete alternatives
+        <br> -> Boolean Logic Gates
+        <br> -> Logic Gates
+        </p>
+    </div>
+
+    <div class="toright">
+        <h3>ANALOG</h3>
+        <p> Radio / Sound
+        <br> - Differential Engine
+        <br> - Continous Variables
+        <br> - Time & Velocity
+        <br> - Amplitude & Modulation
+        <br> - Frequency
+        </p>
+    </div>
+</div>
+
+##### Joseph Fourier - Fourier Transform
+* Any signal can be regarded as a mixture of simple sinewaves of different frequencies.
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif">
+        <figcaption class="caption">[Fourier Carrier Waves - image from wikipedia](https://commons.wikimedia.org/wiki/File:Amfm3-en-de.gif#/media/File:Amfm3-en-de.gif)</figcaption>
+    </div>
+    <div class="toright">
+        <img class="image" src="http://hyperphysics.phy-astr.gsu.edu/hbase/Audio/imgaud/rfban.gif">
+        <figcaption class="caption">[Fourier Carrier Waves - image from wikipedia](https://commons.wikimedia.org/wiki/File:Amfm3-en-de.gif#/    media/File:Amfm3-en-de.gif)</figcaption>
+        </div>
+</div>
+<br>
+<br>
+
+* Nyquist Shannon Sampling Theorem
+
+#### CRYPTOGRAPHY
+* Kerckhoff's Principle -> lock has 6 tumblr pins - 5-10 mil, 8 possible lengths
+* Log2(8) = 3 bits per pin - 6 pins  
+* Julius Cesar Cipher -
+Plain Text -> Cipher -> Cipher Text -> Encryption -> Encipherment
+Msg -> Rule 2 Convert -> Converted Msg -> Transforming 2 plain text (babbage kasiski method)
+<br>
+* CRYPTANALYSIS - Frequency Analysis - vigenere cipher - confederate army - france "le chiffre indechifferable"
+* TURING'S BOMBE - enigma - Arthur Zimmerman - Linear B (Alice Kobel, Micheal Ventris)
+* Shannon - Communication theory of secrecy systems. - Entropy.
+* Redundancy (D) D = Hc - Hp - John Hadwick - info gained = # of letters X Bits / Letter
+<br>      - information basis for cryptanalysis
+* Speech Encipherment - SIG SALLY system - pulse code modulation - "Calculation Complexity"
+* Neumann - Computer & the Brain - Entropy - shannon & neumann
+* TURING'S Universal Machine
+* Algorithmic Information - k2k(m) - algorithmic entropy -> for any particular string of bits, h= ave(k) (shannon entropy)
+* Thermodynamics - Maxwell's Demon - Demon's Info is form of Entropy (Zurek)
 
 
 ---
