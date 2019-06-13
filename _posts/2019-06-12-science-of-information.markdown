@@ -4,7 +4,7 @@ draft: false
 layout: post
 date: 2019-06-12 11:11
 image: https://ichef.bbci.co.uk/childrens-responsive-ichef-ck/480xn/amz/cbbc/Science_Fact_Science_Fiction.jpg
-headerImage: false
+headerImage: true
 tag:
 - infobite
 - science
@@ -13,70 +13,80 @@ category: blog
 author: maximonakpil
 description: Notes on exploring the science of information technology.
 ---
-## A Brief Explanation of how my curiosity lead me here
+*A Brief explanation on how my curiosity lead me here.*
+Researching on statistics and probability courses, I came across this field that had a lot of useful knowledge to the mechanics of communication. Here are my notes so far.
 
 
-
-## [Science of Information Technology: From Language to Black Holes](https://www.thegreatcourses.com/courses/the-science-of-information-from-language-to-black-holes.html)
-- From the Great Courses (available on Amazon Prime)
-* Currently on chapter 19: Turing and Algorithms
+###### Study from Science of Information Technology: From Language to Black Holes [@ Great Courses](https://www.thegreatcourses.com/courses/the-science-of-information-from-language-to-black-holes.html)
 ---
 
-### Evolution
+### How Computing Began
 * Babbage and the Differential Analyzer
-* Ada Lovelace - 1815-1852 first computer programmer
-* Vanneuvar Bush 1931 - recreates babbage's Differential Analyzer
-
+* Ada Lovelace - 1815-1852 - first computer programmer
+* Vannevar Bush 1931 - recreates Babbage's Differential Analyzer
 * Claude Shannon - Builds computer out of logic gates from Boolean Logic.
 
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://www.nutsvolts.com/uploads/wygwam/NV_0407_Marston_Figure1.jpg">
-        <figcaption class="caption">[Logic Gate Symbols from nutvolts.com](https://www.nutsvolts.com/uploads/wygwam/NV_0407_Marston_Figure1.jpg)</figcaption>
     </div>
-
     <div class="toright">
-        <p>Logic Gates from Boolean Logic & Electric Circuits
-        <br> - 2 light switches 1 | 0
-        <br> John Napier - Logarithm Rules LOG2 (base algorithm)
+        <p>
+        <br>
+        <br>
+        Logic Gates
+        <br>
+        from Boolean Logic & Electric Circuits
+        <br> -> 2 light switches 1 | 0
+        <br> -> John Napier - Logarithm Rules LOG2 (base algorithm)
+        <br>
+        <figcaption class="caption">[Logic Gate Symbols from nutvolts.com](https://www.nutsvolts.com/uploads/wygwam/NV_0407_Marston_Figure1.jpg)</figcaption>
         </p>
     </div>
 </div>
 
 #### MAXWELL'S DEMON
-![Maxwell's Demon Experiment](https://i.imgur.com/olsx3Bi.mp4)
-Natural Log - Information Entropy - Entropy in thermodynamics
+![Maxwell's Demon Experiment](http://www.normalesup.org/~adanchin/icons/demon.jpg)
+[photo from Information and Energy article](http://www.normalesup.org/~adanchin/science/maxwell.html)
+* Natural Log - Information Entropy - Entropy in thermodynamics
+**sorting demon - trap door to a box with heat in motion.**
 
 #### Hartley - Shannon Entropy
 * ENTROPY H - minimum # of bits required to represent the source.
 
 #### Probability (17th Century)
-RULES: (0 = Impossible; 1 = Certain)
-1. For Any X : <br>
-X, 0 ≤ P(X) ≤ 1
-<br>  0 - 1 = P(X)
-2. E (sum of all) P(X) = 1
+*RULES: (0 = Impossible; 1 = Certain)*
+        1. For Any X : <br>
+        X, 0 ≤ P(X) ≤ 1
+        <br>  0 - 1 = P(X)
+|
+|
+        2. E (sum of all) P(X) = 1
 
-#### _ E T A O I N S H R D L U (common english letters)
+<div class="breaker"></div>
+###### _ E T A O I N S H R D L U (common english letters)
 "Letter Probabilities" 19.3%
 * Surprise of a message
 * "Pre-fix Free Code Word" - no code word can be the 1st part of any other code word.
 * Average Code Word >= Entropy of Information Source
 * "HUFFMAN CODE" - Best pre-fix free code
+<div class="breaker"></div>
 
 #### SHANNON'S FIRST FUNDAMENTAL THEOREM
 - Information Inequality relates to entropy to the number of bits to represent messages.
-Entropy H(X) of a source (the Average Surprise) equals the main average number of bits necessary to code messages from that source.
+- Entropy H(X) of a source (the Average Surprise) equals the main average number of bits necessary to code messages from that source.
 
 #### DATA COMPRESSION
-* 1970s GZIP (Israel) - First Data Compression - Analyzes Text & Retruns Compressed File. - Images & Sound Encoding = Runline Encoding (through combination of frequencies)
-
+* 1970s GZIP (Israel) - First Data Compression -
+<br>Analyzes Text & Retruns Compressed File.
+<br> Images & Sound Encoding = Runline Encoding (through combination of frequencies)
 * 1990s JPEG, MPEG, PNG  - Joint Photographic Experts Group, Moving Pictures Experts Group, Portable Network Graphics.
 <br> 8x8 pixel block via Huffman Code
 <br> Video - 1 Frame = 2,000,000 Pixels - 3 bytes of color per pixel
-<br> 180 Million Bites of info per sec. (US - 30FPS | UK 25FPS) - Records difference from "P-Frame / Key-frame"
+<br> 180 Million Bites of info per sec. (US - 30FPS / UK 25FPS)
+<br> Records difference from "P-Frame / Key-frame"
 
-* LOSSLESS
+* LOSSLESS Compression
 
 #### Shannon's Second Fundamental Theorem:
 * "Communication Channel" (Input / Output)
@@ -85,28 +95,30 @@ Entropy H(X) of a source (the Average Surprise) equals the main average number o
 
 #### Richard Hamming - "Hamming Distance" (N, K values)
 * Distance from one code to another.
-* ENCODE : Hamming | Channel : 7, 4 | Error Correction : Binary Code | Decode : 1 Bit of Memory - Err Probability 10-14
-*1 radiation induced error per year!*
+* ENCODE : Hamming | Channel : 7, 4 | Error Correction : Binary Code | Decode :  1  Bit of Memory ( Err Probability 10-14)
+<br>
+**1 radiation induced error per year!**
 
 #### Timeline of Computing Technology
-* 1725 Weaving Looms
-* 1804 Jacquard Loom - Charles Babbage - Jules Carpentier's Musical Melotrope
-* 1890 Herman Hollerith Data Processing - Punch Cards - US census - Tabulating Company (IBM)
-* 1954 Fortran IBM - John Backus | "IF / ELSE" - fortran statement
+* 1725: Weaving Looms
+* 1804: Jacquard Loom - Charles Babbage - Jules Carpentier's Musical Melotrope
+* 1890: Herman Hollerith Data Processing - Punch Cards - US census - Tabulating Company (IBM)
+* 1954: Fortran IBM - John Backus | "IF / ELSE" - fortran statement
 * 8 BITS = 256 different combinations = BYTE
 * Binary -> Compiler -> Language
-* 1955 Grace Hopper (US Admiral) COBOL - Common Business Oriented Language - named after Blaise Pascal. "good tracking tool"
-* 1960 ASCII - American Standards Association creates ANSI (American National Standards Institute) which developed ASCII - American Standard Code for Information Interchange (character to binary)
-* 1969 Unix, Linux, Macos - Hacker hats (white: good | black: bad)
-* 1973 C Foundation
-* 2001 Lockheed Martin - F35 Stealth Fighter Jet - "M-LOCKS" - 8 million lines of code in C++
-* 2014 Swift / OBJ-C
-* TODAY = 700 Languages | GE powers turbines and highways | Robotics - CNC "Computer Numerically Controlled Lathes" (Milling machines)
+* 1955: Grace Hopper (US Admiral) COBOL - Common Business Oriented Language - named after Blaise Pascal. "good tracking tool"
+* 1960: ASCII - American Standards Association creates ANSI (American National Standards Institute) which developed ASCII - American Standard Code for Information Interchange (character to binary)
+* 1969: Unix, Linux, Macos - Hacker hats (white: good | black: bad)
+* 1973: C Foundation
+* 2001: Lockheed Martin - F35 Stealth Fighter Jet - "M-LOCKS" - 8 million lines of code in C++
+* 2014: Swift / OBJ-C
+* TODAY = 700 Languages- GE powers turbines and highways
+* Robotics- CNC "Computer Numerically Controlled Lathes" (Milling machines)
 * Quantum Computing = manipulating state of electrons to process calculations faster.
 
-### BUILDING BLOCKS
+#### BUILDING BLOCKS
 1. System Programming - OS, C++, Assembly language
-2. Architechtural Programming - Frameworks, Java, Microsoft.Net
+2. Architectural Programming - Frameworks, Java, Microsoft.Net
 3. Application Programming - PHP, Ruby, Python, Web Browser
 4. Data Manipulation - My SQL, NoSQL, MongoDB
 
@@ -114,12 +126,10 @@ Entropy H(X) of a source (the Average Surprise) equals the main average number o
 * 1676 Order & Disorder - philosophy of engineering - heat - steam engines - "Napoleonic Wars"
 * 1824 "Reflections on the motive power of fire" by Nicholas Carnot - Hot - cold | change in temp = energy
 (dies of cholera and papers are burned)
-* Rudolph Calcius - Laws of thermodynamics - entropy = irreversable (meanwhile victorian scientists like Ernest Mach reject atomic theory)
+* Rudolph Calcius - Laws of thermodynamics - entropy = irreversible (meanwhile victorian scientists like Ernest Mach reject atomic theory)
 * 1844- 1906 Ludwig Boltzman - hot atoms move rapidly
 * ENTROPY = measures disorder of things
-* 1831 - 1879 JAMES CLARK MAXWELL "MAXWELLS DEMON" - sorting demon - trap door to a box with heat in motion.
-![Maxwell's Demon]()
-
+* 1831 - 1879 JAMES CLERK MAXWELL "MAXWELLS DEMON"
 * 1948 Claude Shannon BELL labs - mathematical theory - bit = atom = 2 states
 * 1952 Turing - Morphogenisis, Embryo - clumps cells & form skin, self, organization - describes a living process. Found the same natural process in chemistry of nature with Boris Belusov's Human Sugar Consumption.
 * Bletchley Park WWII codebreaker [More on Alan Turing...](https://mxnkpl.com/blog/2019-alan-turing/)
@@ -132,7 +142,7 @@ Encode -> Interleave -> Channel -> De-Interleave -> Error Correction -> Decode
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Comparison_CD_DVD_HDDVD_BD.svg/2560px-Comparison_CD_DVD_HDDVD_BD.svg.png">
-        <figcaption class="caption">[By Cmglee - Own work, CC BY-SA 3.0]( https://commons.wikimedia.org/w/index.php?curid=21959547)</figcaption>
+        [By Cmglee - Own work, CC BY-SA 3.0]( https://commons.wikimedia.org/w/index.php?curid=21959547)
     </div>
 
     <div class="toright">
@@ -147,9 +157,9 @@ Encode -> Interleave -> Channel -> De-Interleave -> Error Correction -> Decode
 ![Laser Diode Scan Area](https://www.electroschematics.com/wp-content/uploads/2010/02/CD-Working.png)
 
 ### SUPER CODER & SUPER CHANNEL
-OUTER CODER   ->  InterCoder  ->  RAW Channel -> Inner   ->   Outer   <br>
-Reed SOLOMON  ->  RS          ->                 Decoder      Decoder <br>
-28,24         ->  32,28       ->    <br>
+OUTER CODER   |  InterCoder  |  RAW Channel | Inner   |   Outer   <br>
+Reed SOLOMON  |  RS          |              |   Decoder  |    Decoder <br>
+28,24         |  32,28       |    
 *Radial errors are easy to correct, CD = corrects 35,000 errors in 1 track*
 
 ##### NASA using lossless compression adds Reed-Solomon code
@@ -193,10 +203,9 @@ Reed SOLOMON  ->  RS          ->                 Decoder      Decoder <br>
         <figcaption class="caption">[Fourier Carrier Waves - image from wikipedia](https://commons.wikimedia.org/wiki/File:Amfm3-en-de.gif#/    media/File:Amfm3-en-de.gif)</figcaption>
         </div>
 </div>
-<br>
-<br>
 
 * Nyquist Shannon Sampling Theorem
+<div class="breaker"></div>
 
 #### CRYPTOGRAPHY
 * Kerckhoff's Principle -> lock has 6 tumblr pins - 5-10 mil, 8 possible lengths
