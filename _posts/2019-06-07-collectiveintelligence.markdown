@@ -6,8 +6,11 @@ date: 2019-06-07 11:11
 image: https://cdn.arstechnica.net/wp-content/uploads/2015/04/Engelbart-68-demo_0-2-640x426.jpg
 headerImage: true
 tag:
-- markdown
+- infobite
 - elements
+- empatheticrevolution
+- design
+- evolution
 star: true
 category: blog
 author: maximonakpil
@@ -31,12 +34,12 @@ In my research, I found another fascinating mind and role model to look up to..
 <br>
 Ted Nelson who developed [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) the first hypertext project, a digital repository scheme for world-wide electronic publishing..
 
-(Xanadu was also critized for being "Vaporwave" - which has been a big debate between developers and public demand - was called a "scarlett letter" for developers and an overused and abused word like a noose around their neck.)
+(Xanadu was also critized for being "Vaporwave" - which has been a big debate between developers and public demand - was called a "scarlet letter" for developers and an overused and abused word like a noose around their neck.)
 In this ["The curse of Xanadu"](https://www.wired.com/1995/06/xanadu/) article he is quoted :
  "Attention Deficit Disorder was coined by regularity chauvinists," he remarked. "Regularity chauvinists are people who insist that you have got to do the same thing every time, every day, which drives some of us nuts. Attention Deficit Disorder - we need a more positive term for that. Hummingbird mind, I should think."
 
 He also called the term [Intertwingularity](https://en.wikipedia.org/wiki/Intertwingularity).
- "Hierarchical and sequential structures, especially popular since Gutenberg, are usually forced and artificial. Intertwingularity is not generally acknowledged."
+ "Hierarchical and sequential structures, especially popular since Gutenberg, are usually forced and artificial. Inter-wingularity is not generally acknowledged."
 
 ---
 
