@@ -10,18 +10,16 @@ layout: page
 <p>Cross-Dimensional Designer - Developer | Continuity Assembler </p>
 
 
-<p> A reference to an evolving frameworks...
+<p> A Travel Log for Designing, Constructing, Fortifying and Evolving.
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
-This blog is both a blog and a syllabus (byllogybus) to guide a developer like me who likes to learn via exploration. I dig into how coding works, by researching how we all came to the modernity we call today.
+This blog is both a blog and a syllabus (byllogybus) to guide a developer like me who likes to learn via exploration. I dig into what drives the world to change and innovate.
 </p>
 <p>
-I found a lot more purpose in the work of crunching big numbers and appreciating the delicate syntax a language runs with instead of taking it just as an extra step to the process - respected it like poetry and it sang back to me and let me know whats up.
+Much as how studying an atom has taught us about energy, I believe in respecting each component of the cog in a product to get a full understanding of how it all fits.
 </p>
 <p>
-But what puts the fun in fundamentals, is when I can tackle big concepts and break them down into a sequence. I know understand how
-design ties in all the underlying principles is the real key.
-Through the discipline instilled through an engineering way of learning, I was zooming in and out of Science of Information Technology courses. (A really big repository of information is available with an amazon prime membership actually, I highly recommend their documentaries.)
+I found that growing through the discipline of engineering, was an invaluable way to utilize & structure my curiosity. My first product was invented through my passion, a video animation and video editing production. Through this work, I can envision fast-paced environment as exciting. I dream of being able to make order of the chaos, to fashion tools for ease of utility and visual presentation of tasks. With video work, multiple ideas run in my head and I have learned uncanny but effective ways to manage different tasks parallel with efficient organization. I always dream of the "UX" of the work environment and spend a lot of time implementing different ways to make the ultimate work-engine dashboard.
 </p>
 <p>
 This is a journal of notes - Travel Logging, making a database of inter-wingular backup-plans to defy the odds when the timing is strategic.

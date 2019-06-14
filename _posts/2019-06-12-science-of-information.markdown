@@ -167,7 +167,7 @@ Here are my notes so far...
 
 *Radial errors are easy to correct, CD = corrects 35,000 errors in 1 track*
 
-##### NASA using lossless compression adds Reed-Solomon code
+#### NASA using lossless compression adds Reed-Solomon code
 * Voyager - Mission to uranus and neptune - more precise data transactions due to error corrections.
 <br>
 <br>
