@@ -15,9 +15,9 @@ description: Notes on exploring the science of information technology.
 ---
 **A brief explanation on how my curiosity lead me here.**
 <br>
-Researching on statistics and probability for a data science project, I came across this field that had a lot of answers to how we measure the transfer of knowledge and the mechanics of communication.
+I needed a recap on math to get sharp at data structures and algorithms, math visualization offered plenty aha moments, found difficulty keeping focused on statistics. I found a *treasure trove of wonder* in an Information science course, that had a lot of answers to how we measure the transfer of knowledge and the mechanics of communication.
 <br>
-Here are my notes so far...
+Here are some notes so far...
 
 
 ###### [Study from Science of Information Technology: From Language to Black Holes @ Great Courses](https://www.thegreatcourses.com/courses/the-science-of-information-from-language-to-black-holes.html)
