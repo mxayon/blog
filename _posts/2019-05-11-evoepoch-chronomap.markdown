@@ -13,7 +13,7 @@ category: blog
 author: maximonakpil
 description: Plot to the modern day.
 ---
-[DOWNLOAD EVO EPOCH CHRONO MAP IN PDF](https://mxnkpl.com/chronomap.pdf)
+[VIEW EVO EPOCH CHRONO MAP](https://mxnkpl.com/chronomap.html)
 ## Evo Epoch Chrono Map:
 The Evolutionary Epochs Chrono Map is a detailed map type cheatsheet that spreads out some points in time that tries to put in to account how revolutionary an invention is based on other variables around it.
 
