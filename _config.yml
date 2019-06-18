@@ -19,6 +19,8 @@ resume-url: https://mxnkpl.com/maximonakpil2019.pdf
 url: https://mxnkpl.com/blog
 # your url: http://USERNAME.github.io
 
+url: https://mxnkpl.com/
+
 permalink: /:title/
 
 # To enable google analytics, supply your token below
@@ -36,7 +38,6 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: mxayon
-maximo: https://mxnkpl.com/
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
