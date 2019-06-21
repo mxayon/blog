@@ -14,6 +14,10 @@ author: maximonakpil taken from Indigo Blog contents
 description: Markdown summary with different options
 ---
 
+# [GITHUB CHEATSHEET ON MARKDOWN STYLES](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# [GITHUB GIST BY ZENROCHA](https://gist.github.com/zenorocha/4526327)
+
 ## Basic formatting
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
