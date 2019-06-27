@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://mxnkpl.com/maximonakpil2019.pdf
 
-url: https://mxnkpl.com
+url: https://mxnkpl.com/blog
 
 permalink: /:title/
 
@@ -67,7 +67,7 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 6
+paginate: 10
 paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below
