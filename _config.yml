@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://mxnkpl.com/maximonakpil2019.pdf
 
-url: https://mxnkpl.com/
+url: https://mxnkpl.com
 
 permalink: /:title/
 
@@ -49,7 +49,7 @@ github: mxayon
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mxnakpil@gmail.com
+email: mxnkpl@gmail.com
 
 authors:
     maximonakpil:
@@ -67,7 +67,7 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 15
+paginate: 6
 paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below
