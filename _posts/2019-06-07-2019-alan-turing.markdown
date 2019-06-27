@@ -26,7 +26,7 @@ I was inspired to understand how many other innovative inventors like him think 
 
 ## Cryptanalysis Hero
 He cracked the code during WWII and intercepted an attack of Nazi submarines, when all we had was radar and pins on a map. The imitation game movie is during the time he creates the Turing Bombe, but the tragedy after shouldn't be ignored. Considered as an asset by the British Army he was convicted with "Lewd Indecency" *** and sentenced to gay male conversion therapy.
-
+<br>
 He was talking about his love for Snow White a few weeks before he killed himself with a cyanide laced apple. His own cryptic omen to the barbaric intolerance of a man who has crafted an environment for self-realization.
 
 ---
@@ -41,9 +41,12 @@ Yours in distress,
 
 ---
 
-![Alan Turing's Sentence](https://www.turing.org.uk/sources/pi2/sentencesm.png)
+![Alan Turing's Sentence](https://www.turing.org.uk/sources/pi2/sentencesm.png)<br>
 Found Here: [Turing's Sentence](https://www.turing.org.uk/sources/sentence.html)
 ---
+<br>
+
+**There was also an interesting theory that the first apple logo with rainbow stripes was inspired by Turing's cyanide apple that was clarified by designer Rob Janoff** [Apple Logo History](http://freddesign.co.uk/so-why-an-apple-the-history-of-the-apple-logo/)
 
 ## Boole and Ramanujan
 
