@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src="assets/images/inspectocat.png"/>
+</p>
 <h2 align="center">
 <a href="https://mxnkpl.com/blog/"> Max's blog</a>
 </h2>
@@ -15,7 +17,9 @@
 </p>
 
 ## Travel Logging
-<a href ="#blog">
+<a href ="#blog"> </a>
+<br>
+
 Max's Blog! Extrapolating thinker. Following travel log rules to document raw ideas.
 <br>
 Working on ways to fix things, fuse together or dismantle when necessary.
