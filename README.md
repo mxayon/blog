@@ -36,6 +36,8 @@ Blue Skies Dreamer.  |  _*Goin There, With Care*_
 
 Check <a href="https://mxnkpl.com"> MXNKPL.COM </a> for more projects and information.
 
+![MX seafoam logo](https://i.ibb.co/cDdKmJ0/mx-seafoam.png)
+
 ***
 
 
