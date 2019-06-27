@@ -5,15 +5,18 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-<h3><a href="https://mxnkpl.com/">MXNKPL.COM</a></h3>
+<h3><a href="https://mxnkpl.com">MXNKPL.COM</a></h3>
 <p>Maximo Ayon Nakpil</p>
-<p>Cross-Dimensional Designer - Developer | Continuity Assembler </p>
+
+<p>Intersectional Exploration Advocate</p>
+
+_*Goin' There, With Care.*_
 
 
-<p> A Travel Log for Designing, Constructing and Evolving.
+<p> A Travel Log for Designing, Constructing and Evolving. Documenting my ability to be _passionate enough to act a fool._ 
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
-This blog is both a blog and a syllabus (byllogybus) of really cool lessons along the way. No idea too crazy, but this is a sneak-peak to them before an idea gets refined. 
+This blog is both a blog and a syllabus (byllogybus) of really cool lessons along the way. No idea too crazy, but this is a sneak-peak to them before an idea gets refined.
 </p>
 <p>
 Much as how studying an atom has taught us about energy, I believe in respecting each component of the cog in a product to get a full understanding of how it all fits.
@@ -43,6 +46,6 @@ This is a journal of notes - Travel Logging, making a repository of inter-wingul
 
 
 <ul>
-	<li><a href="https://github.com/mxayon">Github : Mxayon</a></li>
+	<li><a href="https://mxnkpl.com">MXNKPL.COM</a></li>
 
 </ul>

@@ -1,7 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a></h2>
-=======
+
     <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a><br> </h2>
 </p>
 
@@ -23,17 +21,16 @@ theme on
 ## Blog
 
 <a href="https://mxnkpl.com/blog/"> About Blog:</a>
-<<<<<<< HEAD
 Max's Blog! Extrapolating thinker.
 Working on ways to fix things, fuse together or dismantle when necessary.
-=======
-Max sharing things.
-Extrapolating thinker.
-Working on ways to fix things, fuse together or dismantle when necessary.
-Cross-Dimensional Developer,
-Product Designer,
-Continuity Assembler.
->>>>>>> bf764049a74fb8ab94ac829ba4fd91cdc440664f
+
+<br>
+
+Intersectional Exploration Advocate.
+<br>
+
+Blue Skies Dreamer.  |  _*Goin There, With Care*_
+
 
 ## Max's Full Website
 

@@ -3,7 +3,7 @@ title: "Science of Information"
 draft: false
 layout: post
 date: 2019-06-12 11:11
-image: https://ichef.bbci.co.uk/childrens-responsive-ichef-ck/480xn/amz/cbbc/Science_Fact_Science_Fiction.jpg
+image: https://i.ibb.co/Vq1kp2v/schrodingers-cat-image.png
 headerImage: true
 tag:
 - infobite
