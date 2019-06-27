@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="assets/images/inspectocat.png"/>
+<img src="https://i.ibb.co/Mfnqx25/pony-cat.png" alt="pony-cat" border="0">
 </p>
+
 <h2 align="center">
 <a href="https://mxnkpl.com/blog/"> Max's blog</a>
 </h2>
@@ -13,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="assets/images/screenshot.png"/>
+<a href="https://mxnkpl.com/blog/"><img src="https://i.ibb.co/hKJx16x/screenshot.png" alt="screenshot" border="0"></a>
 </p>
 
 ## Travel Logging
