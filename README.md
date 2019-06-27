@@ -1,12 +1,8 @@
-<p align="center">
 
-    <h2 align="center"> <a href="https://mxnkpl.com/blog/"> Max's blog</a><br> </h2>
-</p>
+<h2 align="center">
+<a href="https://mxnkpl.com/blog/"> Max's blog</a>
+</h2>
 
-<p align="center">A "quick-launch" blog powered by the <a href="https://github.com/sergiokopplin/indigo/">Indigo</a>
-theme on
-<a href="https://jekyllrb.com"> Jekyll</a>
-</p>
 
 <p align="center">
     <b><a href="README.md#blog">About Blog</a></b>
@@ -18,10 +14,10 @@ theme on
     <img src="assets/images/screenshot.png"/>
 </p>
 
-## Blog
-
-<a href="https://mxnkpl.com/blog/"> About Blog:</a>
-Max's Blog! Extrapolating thinker.
+## Travel Logging
+<a href ="#blog">
+Max's Blog! Extrapolating thinker. Following travel log rules to document raw ideas.
+<br>
 Working on ways to fix things, fuse together or dismantle when necessary.
 
 <br>
@@ -34,9 +30,8 @@ Blue Skies Dreamer.  |  _*Goin There, With Care*_
 
 ## Max's Full Website
 
-Check <a href="https://mxnkpl.com"> MXNKPL.COM </a> for more projects and information.
 
-![MX seafoam logo](https://i.ibb.co/cDdKmJ0/mx-seafoam.png)
+<a href="https://mxnkpl.com"><img src="https://i.ibb.co/LnfDGSm/mx-seafoam.png" alt="mx-seafoam" border="0"></a>
 
 ***
 
@@ -47,6 +42,7 @@ Check <a href="https://mxnkpl.com"> MXNKPL.COM </a> for more projects and inform
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
 
 ## Setup
+<a href="#setup">
 To use Indigo Theme locally on your machine, do the following steps:
 
 1. Install [Jekyll](https://jekyllrb.com/docs/), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
