@@ -3,7 +3,7 @@ title: "Chrono Logics"
 draft: false
 layout: post
 date: 2019-06-28 11:11
-image: https://i.ibb.co/RQ8J6Rg/KERBALX.jpg
+image: https://i.ibb.co/c1QkqBt/mechanicalclock.png
 headerImage: true
 tag:
 - tools
@@ -49,6 +49,13 @@ The cost of swapping in and out of memory can be seen in this performance graph 
 [History of Temporal Design](https://www.sciencedirect.com/topics/computer-science/temporal-data-management)
 
 [Temporal Data Base Design](https://nftb.saturdaymp.com/temporal-database-design/)
+
+***
+
+_*Statipy Data Explorer*_ uses time in first divide and conquer approach [Statipy Data Explorer](https://mxnkpl.com/blog/statipy_dataexplorer/)
+
+An example of using a join table of primary keys to merge separate tables in one "pull".
+[Elephants in the Room project on Github](https://github.com/mxayon/elephantsintheroom)
 
 
 ---
