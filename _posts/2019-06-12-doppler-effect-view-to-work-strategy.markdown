@@ -1,5 +1,5 @@
 ---
-title: "Doppler Effect View to Product Strategy"
+title: "Doppler Effect View to Work Strategy"
 draft: false
 layout: post
 date: 2019-06-11 11:11
@@ -38,21 +38,19 @@ I find people in an organization in this matter is comparable to design in a pro
 Brilliant innovators know this quotient at heart, and are aware of how hard it was to implement a paradigm shift.
 'Turning points' are highly subjective and therefore more important to measure in synergistic systems.
 
-As above and so below, it is important to have the same self-actualization we expect from what we invoke.
-
-If a whole company, or the entire product strategy plan is contained in self-sustaining cells, each cell is tested and integrated after exploiting and categorizing possible outcomes. Following steps that can be implemented to the entire organism as a whole, but detailed enough to let the cell evolve independently yet parallel to objective and core goals.
+Following the squeaky wheel can bring the most improvements.
 
 There is always chaos but with out a clear definition of goals and check and balance systems in place, the chaos will be hard to track or measure and impossible to harness the momentum of the chaos for the organisms growth benefit.
 
-## Product Revolution
-Through out time, companies evolved from products and products are revolutionary. Tools are made from applied sciences used to adapt to revolutions. Questions have lead to measurements, amalgamating into scientific theory. Seeing the patterns in possible paths is giving reverence to humanities receptivity.
+## Organic Revolutions
+Through out time, systems evolved from tools and tools are revolutionary. Tools are made from applied sciences used to adapt to revolutions. Questions have lead to measurements, amalgamating into scientific theory. Seeing the patterns in possible paths is giving reverence to humanities receptivity.
 
-Design isn’t just the overall structure of a product, it’s in the beginning and the end, from inception to rebirth. In a revolution, it starts with an inventor some persuasive power for things to start moving. Good design has receptivity at its core before rolling out measured features. I feel that passion comes from taking a sense of ownership and liberty to instigate change. Much like purposeful design decision, these catalysts for change thrive on its own, focused on its own patterns of improvement but inline with product’s direction.
+Design isn’t just the overall structure of a product, it’s in the beginning and the end, from inception to rebirth. In a revolution, it starts with an inventor and necessity. Good design has receptivity at its core before rolling out measured features. I feel that passion comes from taking a sense of ownership and liberty to instigate change. Much like purposeful design decision, these catalysts for change thrive on its own, focused on its own patterns of improvement but inline with product’s direction.
 
 ![Doppler Effect](https://d2jmvrsizmvf4x.cloudfront.net/gQobs1O5Sm640Zc3U0lQ_Doppler%2Beffect.jpg)
 
-## The Expanding User-verse
-I think of the expanding universe, and how all the energy encapsulated in time to see if we are cooling and shrinking or heating up and expanding. If a product or a company is complacent is not receptive to a heating and expanding model, it maybe on it’s way to Re-birth before heating up and expanding again. Design thinking, Product Management and the scientific measurements of the universe come hand in hand. A shrinking mindset will reject change, in the same light design opens up doors.
+## The Expanding Universe
+I think of the expanding universe, and how all the energy encapsulated in time to see if we are cooling and shrinking or heating up and expanding. If a system is complacent & is not receptive to a heating and expanding model, it maybe on it’s way to Re-birth before heating up and expanding again. Design thinking, Product Management and the scientific measurements of the universe come hand in hand. Rejecting evolution equates a shrinking view, in the same way design opens horizons.
 
 
 ---
