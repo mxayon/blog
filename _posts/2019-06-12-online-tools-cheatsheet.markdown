@@ -1,6 +1,6 @@
 ---
 title: "Online Tools Cheatsheet"
-draft: true
+draft: false
 layout: post
 date: 2019-06-12 11:11
 image: https://i.ibb.co/bJ1xLYM/rocket-patent-space-art-space-poster-space-program-blueprint-pilot-gift-aircraft-decor-rockets-diagrams-aviation-58a2764f1.jpg
@@ -18,6 +18,10 @@ description: A tool repository for building cross-dimensional things.
 Create your own from some of my favorite things.
 
 [IMG BB](https://maximo-nakpil.imgbb.com/albums)
+
+Trello board featuring Spock | [Max on Trello](https://trello.com/b/LR3BhCvK)
+
+
 
 
 
