@@ -55,8 +55,8 @@ authors:
     maximonakpil:
         name: Max Nakpil
         bio: Mad Scientist, Continuity Assembler
-        external-image: false
-        picture: assets/images/max11-ideal-pyramid.gif
+        external-image: true
+        picture: https://i.ibb.co/xLm33LS/max11-ideal-pyramid.gif
         twitter: mxayon
         github: mxayon
 
@@ -67,7 +67,7 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 8
+paginate: 15
 paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below

@@ -13,10 +13,10 @@ tag:
 star: true
 category: blog
 author: maximonakpil
-description: A “Doppler Effect” view to Product Strategy…
+description: A “Doppler Effect” view to Work Strategy…
 ---
 
-## Product Organisms
+## Work Organisms
 Complacency isn’t a solution to a good work environment.
 Only experience would teach the importance of a check and balance system in order to retain the best type of promoters from within - the workers who advocate for change and growth is what keeps an organism thriving and not shrinking.
 
