@@ -43,4 +43,16 @@ description: A tool repository for building cross-dimensional things.
 
 [Art Movements](https://www.theartstory.org/section-movements.htm)
 
+***
+
+### HCI: Human Computer Interaction
+
+[Human Computer Interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction)  
+
+![HCI](https://public-media.interaction-design.org/images/encyclopedia/human_computer_interaction_hci/human_processor.jpg)
+
+[Author/Copyright holder: Card, Moran and Newell. Copyright terms and licence: All Rights Reserved. Reproduced with permission. See section "Exceptions" in the copyright terms below.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)
+
+Figure 2.2: The Model Human Processor was an early cognitive engineering model intended to help developers apply principles from cognitive psychology.
+
 ---
