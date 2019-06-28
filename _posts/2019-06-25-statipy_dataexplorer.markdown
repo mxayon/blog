@@ -45,9 +45,9 @@ Using the superbly documented and structured Spotify Api has enabled this operat
 
 **If you want to try it on your own playlist, checking out the spotify api documentation on how the JSON data is structtued can help you plan your exploratory approach.**
 
-Due to the type of data my playlists had, I wanted to first explore the diverse song population over time.
+Due to the tracks on my playlists, I wanted to first explore the song population over time.
 
-
+I.
 Artists in Playlists grouped in to repeated track vs. non repeated track count's over all popularity over it's album years.
 
 
@@ -55,37 +55,44 @@ Artists in Playlists grouped in to repeated track vs. non repeated track count's
 
 <br />
 
+Year w/ Most Tracks vs Year Average Track Popularity
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6NBt21B/yearmax-Tpop-Xyfreq.png" alt="yearmax-Tpop-Xyfreq" border="0"></a>
 
-<br />
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/R05S83q/dates-mostavg-Tpop-yr1.png" alt="dates-mostavg-Tpop-yr1" border="0"></a>
 
 <br />
 
+Artists with Most Repeated Tracks (0-8)
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QbN2vdS/artists-maxrepeats.png" alt="artists-maxrepeats" border="0"></a>
 <br />
 
 
+Years with most track repeats
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/vBxytpW/dates-w-most-repeats.png" alt="dates-w-most-repeats" border="0"></a>
 
 <br />
 
+Year track count over time
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KWqzZpM/lineplot-dates11.png" alt="lineplot-dates11" border="0"></a>
 
 <br />
 
+Newest Tracks - Stacked - Year track count x Artist Track count x Track popularity
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wy8c00y/newest-tracks.png" alt="newest-tracks" border="0"></a>
 
 <br />
+
+Oldest Tracks - Stacked - Year track count x Artist Track count x Track popularity
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gdbTFGL/oldest-tracks.png" alt="oldest-tracks" border="0"></a>
 
 <br />
 
+Artists: Total popularity > 25% - frequency over 50%
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/pQGyhHj/tpop25songfreq50.png" alt="tpop25songfreq50" border="0"></a>
 
 <br />
+
+Artists: Total popularity > 25% - frequency over > 75%
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wYMjq8y/tpop25songfreq75.png" alt="tpop25songfreq75" border="0"></a>
 
@@ -95,6 +102,15 @@ Artists in Playlists grouped in to repeated track vs. non repeated track count's
 
 [Jupyter notebooks tips & tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
-<br / >
+|
 
 [Interesting Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+## The Gist of it all
+
+[Statipy Data Explorer 1](https://gist.github.com/mxayon/91d83b2f3bc6cd894bf26d5d71dc240a)
+<br>
+
+<script src="https://gist.github.com/mxayon/91d83b2f3bc6cd894bf26d5d71dc240a.js"></script>
+
+[Artist Feature 1 (Rupaul Draft)](https://gist.github.com/mxayon/0888055e91991abe46d3fbf90ddddcf2)

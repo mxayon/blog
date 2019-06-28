@@ -21,7 +21,9 @@
 <a href ="#blog"> </a>
 <br>
 
-Max's Blog! Extrapolating thinker. Following travel log rules to document raw ideas.
+Max's Blog: Extrapolating thinker.
+<br>
+Following _**travel log**_ rules to document raw ideas.
 <br>
 Working on ways to fix things, fuse together or dismantle when necessary.
 
@@ -41,7 +43,7 @@ Blue Skies Dreamer.  |  _*Goin There, With Care*_
 ***
 
 
-## About Indigo Theme on Jekyll
+## About Blog Theme Indigo on Jekyll
 
 -[Indigo Theme](https://github.com/sergiokopplin/indigo/) : [Live-demo](http://sergiokopplin.github.io/indigo/)
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
