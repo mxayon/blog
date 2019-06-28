@@ -13,7 +13,7 @@ layout: page
 _*Goin' There, With Care.*_
 
 
-<p> A Travel Log for Designing, Constructing and Evolving. Documenting my ability to be _passionate enough to act a fool._ 
+<p> A Travel Log for Designing, Constructing and Evolving. Documenting my ability to be _passionate enough to act a fool._
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
 This blog is both a blog and a syllabus (byllogybus) of really cool lessons along the way. No idea too crazy, but this is a sneak-peak to them before an idea gets refined.
@@ -27,25 +27,26 @@ I found that growing through the discipline of engineering, was an invaluable wa
 <p>
 This is a journal of notes - Travel Logging, making a repository of inter-wingular connections and sharing learnings to others and future self.
 </p>
-
-<h2>Hands:</h2>
-<ul class="skill-list">
-	<li> Right: Mechanical Pencil and Paper </li>
-	<li>Left: AdobeCreativeSuite, FinalCut, Motion5</li>
-</ul>
-
-<h2>Toolkit:</h2>
-
-<ul class="skill-list">
-	<li>HTML | CSS | JavaScript</li>
-	<li>GitHub | Jekyll</li>
-	<li>Python | Pandas</li>
-	<li>Ruby on Rails</li>
-	<li>MEAN stack</li>
-</ul>
-
-
+<div class="side-by-side">
+    <div class="toleft">
+		<p>
+			<li>Right Hand: Mechanical Pencil and Paper (Universal Skill Level)</li>
+			<li>Left Hand: AdobeCreativeSuite, FinalCutPro, Motion5</li>
+		Toolkit:
+			<li>HTML | CSS | JavaScript</li>
+			<li>GitHub | Jekyll</li>
+			<li>Python | Pandas</li>
+			<li>Ruby on Rails</li>
+			<li>MEAN stack</li>
+		</p>
+    </div>
+    <div class="toright">
+        <p>
+				<a href="https://ibb.co/Y3XycwK"><img src="https://i.ibb.co/tHVbX4M/max-vol.png" alt="max-volcano" border="0"></a>
+				</p>
+    </div>
+</div>
 <ul>
 	<li><a href="https://mxnkpl.com">MXNKPL.COM</a></li>
-
+	<li><a href="https://gist.github.com/mxayon">Gists</a></li>
 </ul>
