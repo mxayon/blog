@@ -3,11 +3,11 @@ title: "Online Tools Cheatsheet"
 draft: true
 layout: post
 date: 2019-06-12 11:11
-image: assets/images/markdown.jpg
-headerImage: false
+image: https://i.ibb.co/bJ1xLYM/rocket-patent-space-art-space-poster-space-program-blueprint-pilot-gift-aircraft-decor-rockets-diagrams-aviation-58a2764f1.jpg
+headerImage: true
 tag:
-- markdown
-- elements
+- tools
+- cheatsheet
 star: true
 category: blog
 author: maximonakpil
@@ -17,8 +17,7 @@ description: A tool repository for building cross-dimensional things.
 ## Online Collections
 Create your own from some of my favorite things.
 
-
-
+[IMG BB](https://maximo-nakpil.imgbb.com/albums)
 
 
 
