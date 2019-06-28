@@ -6,6 +6,7 @@ date: 2019-06-11 11:11
 image: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F12%2Fexpansionoftuniverse.jpg
 headerImage: true
 tag:
+- satiricalbuttrue
 - infobite
 - design
 - science

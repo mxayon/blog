@@ -7,6 +7,7 @@ image: https://www.sunnysports.com/blog/wp-content/uploads/2017/11/leaves.jpg
 headerImage: true
 tag:
 - receptivity
+- satiricalbuttrue
 - elements
 star: true
 category: blog
