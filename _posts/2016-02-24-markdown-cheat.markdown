@@ -13,6 +13,7 @@ category: blog
 author: maximonakpil taken from Indigo Blog contents
 description: Markdown summary with different options
 ---
+[Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
  [GITHUB CHEATSHEET ON MARKDOWN STYLES](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
