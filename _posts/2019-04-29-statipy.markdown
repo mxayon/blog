@@ -6,8 +6,9 @@ date: 2019-04-29 11:11
 image: https://secure.webtoolhub.com/static/resources/icons/set112/ec7816a7.png
 headerImage: true
 tag:
-- markdown
-- elements
+- tools
+- database
+- python
 star: true
 category: blog
 author: maximonakpil

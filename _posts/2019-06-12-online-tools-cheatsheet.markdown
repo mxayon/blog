@@ -8,6 +8,7 @@ headerImage: true
 tag:
 - tools
 - cheatsheet
+- design
 star: true
 category: blog
 author: maximonakpil

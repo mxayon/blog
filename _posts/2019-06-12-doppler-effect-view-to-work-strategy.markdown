@@ -10,7 +10,6 @@ tag:
 - infobite
 - design
 - science
-- empatheticrevolution
 star: true
 category: blog
 author: maximonakpil
@@ -53,5 +52,11 @@ Design isn’t just the overall structure of a product, it’s in the beginning 
 ## The Expanding Universe
 I think of the expanding universe, and how all the energy encapsulated in time to see if we are cooling and shrinking or heating up and expanding. If a system is complacent & is not receptive to a heating and expanding model, it maybe on it’s way to Re-birth before heating up and expanding again. Design thinking, Product Management and the scientific measurements of the universe come hand in hand. Rejecting evolution equates a shrinking view, in the same way design opens horizons.
 
+
+
+> On an inspirational side note here's Jeremy Rifkin talking about an Empathetic Civilization at a sustainability conference
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-7BjeHepbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---

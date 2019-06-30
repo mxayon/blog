@@ -9,6 +9,8 @@ tag:
 - evolution
 - byllogybus
 - infobites
+- time
+- semanticweb
 star: true
 category: blog
 author: maximonakpil

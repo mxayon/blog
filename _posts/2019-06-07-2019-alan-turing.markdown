@@ -6,8 +6,8 @@ date: 2019-06-07 11:11
 image: http://www.rutherfordjournal.org/images/TAHC_Turing_1A.jpg
 headerImage: true
 tag:
-- markdown
-- elements
+- time
+- evolution
 star: true
 category: blog
 author: maximonakpil

@@ -8,7 +8,7 @@ headerImage: true
 tag:
 - receptivity
 - satiricalbuttrue
-- elements
+- philosophy
 star: true
 category: blog
 author: maximonakpil

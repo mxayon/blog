@@ -6,8 +6,8 @@ date: 2016-02-24 22:44
 image: assets/images/linuxcat.png
 headerImage: true
 tag:
-- markdown
-- elements
+- tools
+- design
 star: true
 category: blog
 author: maximonakpil taken from Indigo Blog contents

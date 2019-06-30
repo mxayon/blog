@@ -11,6 +11,7 @@ tag:
 - empatheticrevolution
 - design
 - evolution
+- philosophy
 star: true
 category: blog
 author: maximonakpil

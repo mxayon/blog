@@ -6,8 +6,9 @@ date: 2019-05-09 11:11
 image: https://i.redd.it/erdjqzlmlv111.png
 headerImage: true
 tag:
-- markdown
-- elements
+- byllogybus
+- philosophy
+- satiricalbuttrue
 star: true
 category: blog
 author: maximonakpil

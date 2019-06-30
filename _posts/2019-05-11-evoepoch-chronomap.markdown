@@ -6,8 +6,10 @@ date: 2019-06-10 11:11
 image: https://mxnkpl.com/img/alarm-clock.png
 headerImage: true
 tag:
-- markdown
-- elements
+- time
+- tools
+- philosophy
+- evolution
 star: true
 category: blog
 author: maximonakpil

@@ -6,8 +6,9 @@ date: 2019-06-28 11:11
 image: https://i.ibb.co/0t1nYwS/isolated-gear.png
 headerImage: false
 tag:
-- markdown
-- elements
+- ontology
+- database
+- semanticweb
 star: true
 category: blog
 author: maximonakpil

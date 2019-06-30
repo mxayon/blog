@@ -6,8 +6,8 @@ date: 2019-05-11 11:11
 image: assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- python
+- tools
 star: true
 category: blog
 author: maximonakpil

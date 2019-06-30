@@ -8,6 +8,8 @@ headerImage: true
 tag:
 - tools
 - time
+- database
+- semanticweb
 star: true
 category: blog
 author: maximonakpil

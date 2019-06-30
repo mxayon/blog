@@ -6,8 +6,9 @@ date: 2019-06-28 1:11
 image: https://i.ibb.co/0t1nYwS/isolated-gear.png
 headerImage: false
 tag:
-- markdown
-- elements
+- design
+- philosophy
+- craft
 star: true
 category: blog
 author: maximonakpil

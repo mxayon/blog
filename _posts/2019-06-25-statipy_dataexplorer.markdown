@@ -7,9 +7,10 @@ image: https://i.ibb.co/6NBt21B/yearmax-Tpop-Xyfreq.png
 headerImage: true
 tag:
 - statipy
-- data
+- database
 - explorer
 - satiricalbuttrue
+- time
 star: true
 category: blog
 author: maximonakpil
