@@ -2,7 +2,7 @@
 title: "Chrono Logics"
 draft: false
 layout: post
-date: 2019-06-28 11:11
+date: 2019-06-30 11:11
 image: https://i.ibb.co/c1QkqBt/mechanicalclock.png
 headerImage: true
 tag:
@@ -245,11 +245,15 @@ Resources:
 [Ontology Engineering](https://www.semanticscholar.org/paper/An-Introduction-to-Ontology-Engineering-Keet/662d16cf1914d488022d75baaf7dbf7752066244)
 
 
+"Data Mapper" Martinfowler.com
+[datamapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
+
+
 
 ***
 
 _*Statipy Data Explorer*_ uses time in first divide and conquer approach [Statipy Data Explorer](https://mxnkpl.com/blog/statipy_dataexplorer/). While exploring the best ways to group the data, time was a great constant variable
-to use as an index for the table. The behavior that followed the graph results when compounding the date index to year level really affects performance of search query for math functions in the future..
+to use as an index for the table. The behavior that followed the graph results when compounding the date index to year level really affects performance of search query and for math functions in the future..
 (WIP- also proves that data presentation is important in describing and documenting results)
 <br>
 
@@ -260,9 +264,5 @@ ERD - Entity Relationship Diagram
 <br> [Elephants in the Room](https://elephantsintheroom.herokuapp.com)    |    [Elephants in the Room project on Github](https://github.com/mxayon/elephantsintheroom)
 
 <br>
-
-"Data Mapper" from Martinfowler.com
-![datamapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
-
 
 ---
