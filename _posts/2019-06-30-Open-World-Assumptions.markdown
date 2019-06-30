@@ -25,7 +25,7 @@ Closed World Assumption (CWA) - temporal databases hold complete information abo
 
 - _*we state what is possible*_   |   needs a place to put it.
 
-[Open World Assumption (OWA)]() - The alternative: to treat the relational structures representing temporal databases as incomplete specifications and use the OW Assumption to answer queries
+[Open World Assumption (OWA)](https://www.dataversity.net/introduction-to-open-world-assumption-vs-closed-world-assumption/) - The alternative: to treat the relational structures representing temporal databases as incomplete specifications and use the OW Assumption to answer queries
 
 - _*we state what is not possible*_    |    {} empty OWA - everything is possible; then constrain ontology iteratively, making it more restrictive as we go.
 
@@ -37,11 +37,11 @@ Closed World Assumption (CWA) - temporal databases hold complete information abo
 | Shark 	| No 	|
 | Hummingbird 	| Yes 	|
 
-- Can pigs fly?
+Can pigs fly?
       - CWA = False: table does not contain fact.
       - OWA = We don't know: unless we can infer "pigs can or cannot fly"
         - NaF = only false if "pigs cannot fly"
-- OWA assumes incomplete information by default
+OWA assumes incomplete information by default
 - We can intentionally underspecify and allow others to reuse and extend
   - e.g. All Sharks liveInHabitat; some waterHabitat
   - Are there fresh/ seawater sharks?
@@ -68,10 +68,10 @@ A Property Chain
 <br>
 ![Data Table Join](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/120-Figure5.6-1.png)
 
-- **Extending Ontology:** we can add statements, but cannot take any away.
+**Extending Ontology:** we can add statements, but cannot take any away.
   - *Monotonic*: in extending ontology all existing true statements remain true.
 
-- UNAs: Unique Name Assumptions: Objects have different IDs by default
+UNAs: Unique Name Assumptions: Objects have different IDs by default
   - CWA creates UNA
   - OWA doesnt create UNA
     - to allow later assertion that two things are the same or different (or this maybe inferred)
@@ -79,7 +79,7 @@ A Property Chain
       - RDF cannot make assertions about objects being different
       - OW language and other logics can.
 
-- _**Constraints**_: can mean
+_**Constraints**_: can mean
   - Integrity Constraints (CWA)
     - prevents invalid values from being asserted in a model
     - used for validation/parsing/data input
@@ -91,7 +91,7 @@ A Property Chain
     - _this may cause some unintuitive inferences_
 
 ## Choosing OWA vs CWA
-- Analyzing problem domains
+Analyzing problem domains
 
 | Open World Problem  	| Closed World Problem 	|
 |-----------------------------------------------------------------------------------------------------	|:------------------------------------------------------------------------------------------:	|
@@ -100,32 +100,33 @@ A Property Chain
 | What are the factors affecting climate change? (new studies may  improve or validate other factors) 	| When was the worst climate change instance ever recorded? 	|
 
 #### Why Open World
-- Underspecification
+Underspecification
   - Abstract, nested and unnamed entities
-- Easily reusable (and extendable)
-- Good at knowledge level (Ontology)
-- Good at "schema"-"schema" mapping
+Easily reusable (and extendable)
+Good at knowledge level (Ontology)
+Good at "schema"-"schema" mapping
   - Asserting/Inferring equivalents
-- They naturally deal with incomplete information
+They naturally deal with incomplete information
   - Domain knowledge where answers are evolving (e.g. science)
-- Making an inference
+Making an inference
 
-#### Why Closed World
-- Paradigm Shift
-  - Involves Technology/Experience Catch up
-- Some problems are inherently closed world (often those that we ask "which are not... " or have a finite number of elements)
-  - but is possible to close the open world (later)
-- Dealing with Defaults & Exceptions
-- Dealing with Schema-Data mapping
+#### Why Closed Worl
+Paradigm Shift
+  - Involves Technology/Experience Catch u
+  Some problems are inherently closed world (often those that we ask "which are not... " or have a finite number of elements)
+  - but is possible to close the open world (later
+    Dealing with Defaults & Exception
+    Dealing with Schema-Data mapping
   - integrity constraints, validation (parsing from generation)
-  - data structures are typically closed
-- Meta-query
+  - data structures are typically close
+  Meta-query
   - _What do we know??_
 
 ## Interpreting Knowledge on problems
 
 I. Problem Domain A
-- Will there be a host for the pre-show?
+
+Will there be a host for the pre-show?
 
   | Time 	| Activity 	| Hosts / Awardees 	|
   |---------	|-------------------------------------------------	|--------------------------------------------------	|
@@ -140,15 +141,16 @@ I. Problem Domain A
   | 9:00pm 	| Best Direction in Video - "Jeremy by Pearl Jam" 	| Sharon Stone introduces Director Mark Pellington 	|
 
 <br>
-* _*Order made up for demonstration purposes. Data gathered from ff resources:*_
+
+_*Order made up for demonstration purposes. Data gathered from ff resources:*_
 <br>
 [VMA-Rupaul-Nirvana](http://www.papermag.com/vma-rupaul-nirvana-2597575353.html?rebelltitem=12#rebelltitem12)    |    [MTV Awards List](https://en.wikipedia.org/wiki/1993_MTV_Video_Music_Awards)
 
 - Database says "No"
-- OWA says "Don't know" unless a blank is interpreted as "Activity and not(hasSpeaker)"
+OWA says "Don't know" unless a blank is interpreted as "Activity and not(hasSpeaker)"
 
 II. Problem Domain B
-- I want to treat my patient with a painkiller that is not an anticoagulant
+I want to treat my patient with a painkiller that is not an anticoagulant
 
 | Drug 	| Effect 	|
 |-------------	|---------------	|
