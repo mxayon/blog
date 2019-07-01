@@ -16,13 +16,13 @@ description: My favorite person.
 ![Surprise and Frequency](https://www.wordsonimages.com/pics/51718-o.jpg)
 ## Alan Turing as an inspiration
 
-As most things, the history goes deeper. I found the correspondece to his psychologist who published a book about his struggles with society about being a openly gay man.
+Aside from breaking the code that saved the war and and ai, he was as vocal as he could be about the unjust perception towards his sexuality at that time. These are some of the letters his psychologist shared years after his death, documenting the unfair treatment that ultimately led to his death.
 [Turing's Letters][1]
 
 His thoughts on self-singularity was ahead of his time and predicted deep learning by digging deep into the biological nature of the human embryo.
 [Self-singularity][2]
 [Patterns in Nature - WikiPedia](https://en.wikipedia.org/wiki/Patterns_in_nature)
-I was inspired to understand how many other innovative inventors like him think and the necessity that posseded them to create things, as well as all the external factors that stop them.
+I was inspired to understand how many other innovative inventors like him think and the necessity that possessed them to create things, as well as all the external factors that stop them.
 
 ## Cryptanalysis Hero
 He cracked the code during WWII and intercepted an attack of Nazi submarines, when all we had was radar and pins on a map. The imitation game movie is during the time he creates the Turing Bombe, but the tragedy after shouldn't be ignored. Considered as an asset by the British Army he was convicted with "Lewd Indecency" *** and sentenced to gay male conversion therapy.
