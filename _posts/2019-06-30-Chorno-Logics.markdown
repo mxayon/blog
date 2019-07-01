@@ -56,10 +56,10 @@ The cost of swapping in and out of memory can be seen in this performance graph 
 
 > By recognizing that time-series data is different, we are able to organize data in a new way: adaptive time/space chunking. This minimizes swapping to disk by keeping the working data set small enough to fit inside memory, while allowing us to maintain robust primary and secondary index support (and the full feature set of PostgreSQL). And as a result, we are able to scale up PostgreSQL significantly, resulting in a 15x improvement on insert rates.
 
-[Timescale on Github](https://github.com/timescale/timescaledb)
-[Time Travelling!](https://fauna.com/blog/time-traveling-databases)
-[History of Temporal Design](https://www.sciencedirect.com/topics/computer-science/temporal-data-management)
-[Temporal Data Base Design](https://nftb.saturdaymp.com/temporal-database-design/)
+- [Timescale on Github](https://github.com/timescale/timescaledb)
+- [Time Travelling!](https://fauna.com/blog/time-traveling-databases)
+- [History of Temporal Design](https://www.sciencedirect.com/topics/computer-science/temporal-data-management)
+- [Temporal Data Base Design](https://nftb.saturdaymp.com/temporal-database-design/)
 
 
 ## Time Complexity
@@ -97,6 +97,12 @@ Time is more complex than linearly ordered set of time instants.
 ![activitydiags](https://www.tutorialspoint.com/uml/images/uml_activity_diagram.jpg)
 
 
+- "Constraining a Property / Subsetting"
+<br>
+![Subsetting](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/120-Figure5.6-1.png)
+<br>
+- Owl Axioms
+![OWL AXIOMS](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/86-Table4.2-1.png)
 
 ***
 
@@ -104,28 +110,23 @@ Resources:
 [Handbook of Temporal Reasoning in Artificial Intelligence](https://www.semanticscholar.org/paper/Handbook-of-Temporal-Reasoning-in-Artificial-Fisher-Gabbay/eb14281c97a583248ddbff5ab71309a3849a8c78)
 
 
-"Data Mapper" Martinfowler.com
-[datamapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
-
-- "Constraining a Property / Subsetting"
-<br>
-![Subsetting](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/120-Figure5.6-1.png)
-<br>
-- Owl Axioms
-![OWL AXIOMS](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/86-Table4.2-1.png)
 ***
 
+### Some practice sets
+
+1.
 _*Statipy Data Explorer*_ uses time in first divide and conquer approach [Statipy Data Explorer](https://mxnkpl.com/blog/statipy_dataexplorer/). While exploring the best ways to group the data, time was a great constant variable
 to use as an index for the table. The behavior that followed the graph results when compounding the date index to year level really affects performance of search query and for math functions in the future..
 (WIP- also proves that data presentation is important in describing and documenting results)
 <br>
 
-Here is an example of observing the behaviors while using a primary key in a Data Table/ Join Table/ Data Mapper as a way to merge separate tables in one "pull".
+2.
+Here is an example of observing the behaviors while using a primary key in a Data Table/ Join Table/ [Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html) as a way to merge separate tables in one "pull".
 <br>
 ERD - Entity Relationship Diagram
 ![ERD for E.R.](https://i.ibb.co/yWVCN5P/er-erd.png)
-<br> [Elephants in the Room](https://elephantsintheroom.herokuapp.com)    |    [Elephants in the Room project on Github](https://github.com/mxayon/elephantsintheroom)
-
 <br>
+- [Elephants in the Room](https://elephantsintheroom.herokuapp.com)
+- [Elephants in the Room project on Github](https://github.com/mxayon/elephantsintheroom)
 
 ---
