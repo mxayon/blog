@@ -47,18 +47,18 @@ The cost of swapping in and out of memory can be seen in this performance graph 
 
 [On Adaptive Time and Space Chunking](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c/)
 
+- Space Chunking
 !["SPACE CHUNKING"](https://blog.timescale.com/content/images/2018/12/image-82.png)
 
+
+- Adaptive Chunks
 !["Adaptive Chunks"](https://blog.timescale.com/content/images/2018/12/image-84.png)
 
 > By recognizing that time-series data is different, we are able to organize data in a new way: adaptive time/space chunking. This minimizes swapping to disk by keeping the working data set small enough to fit inside memory, while allowing us to maintain robust primary and secondary index support (and the full feature set of PostgreSQL). And as a result, we are able to scale up PostgreSQL significantly, resulting in a 15x improvement on insert rates.
 
 [Timescale on Github](https://github.com/timescale/timescaledb)
-
 [Time Travelling!](https://fauna.com/blog/time-traveling-databases)
-
 [History of Temporal Design](https://www.sciencedirect.com/topics/computer-science/temporal-data-management)
-
 [Temporal Data Base Design](https://nftb.saturdaymp.com/temporal-database-design/)
 
 
@@ -70,41 +70,35 @@ Time is more complex than linearly ordered set of time instants.
 
 ***
 
-[Check out this blog post on Open World Assumptions]()
+[Check out this blog post on Open World Assumptions](https://mxnkpl.com/blog/Open-World-Assumptions/)
 
 ***
 
 
-"Constraining a Property / Subsetting"
-<br>
-![Subsetting](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/120-Figure5.6-1.png)
-<br>
-
+- The Semantic Web Layer Cake
 ![Semantic Web Layer Cake](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/96-Figure4.3-1.png)
 
-<div class="side-by-side">
-  <div class="toleft">
-    <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/93-Figure4.2-1.png">
-  </div>
-  <div class="toright">
-    <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/86-Table4.2-1.png">
-  </div>
-</div>
-
+- ORM Verbalization
 ![ORM verbalization](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/45-Figure2.2-1.png)
 
+- E-Lico Architechture
 ![E-Lico Architechture](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/32-Figure1.9-1.png)
 
-[What are ORM's](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a) | [UML: Succesor of OO analysis & design](https://www.tutorialspoint.com/uml/uml_overview.htm)
+[What are ORM's](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
+[UML: Succesor of OO analysis & design](https://www.tutorialspoint.com/uml/uml_overview.htm)
 
-"Sequence Diagrams"
+- Sequence Diagrams"
 ![SeqDiags](https://www.tutorialspoint.com/uml/images/uml_sequence_diagram.jpg)
 
-"Statechart Diagrams"
+- "Statechart Diagrams"
 ![statchartdiags](https://www.tutorialspoint.com/uml/images/uml_statechart_diagram.jpg)
 
-"Activity Diagrams"
+- "Activity Diagrams"
 ![activitydiags](https://www.tutorialspoint.com/uml/images/uml_activity_diagram.jpg)
+
+
+
+***
 
 Resources:
 [Handbook of Temporal Reasoning in Artificial Intelligence](https://www.semanticscholar.org/paper/Handbook-of-Temporal-Reasoning-in-Artificial-Fisher-Gabbay/eb14281c97a583248ddbff5ab71309a3849a8c78)
@@ -113,8 +107,12 @@ Resources:
 "Data Mapper" Martinfowler.com
 [datamapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
 
-
-
+- "Constraining a Property / Subsetting"
+<br>
+![Subsetting](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/120-Figure5.6-1.png)
+<br>
+- Owl Axioms
+![OWL AXIOMS](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/662d16cf1914d488022d75baaf7dbf7752066244/86-Table4.2-1.png)
 ***
 
 _*Statipy Data Explorer*_ uses time in first divide and conquer approach [Statipy Data Explorer](https://mxnkpl.com/blog/statipy_dataexplorer/). While exploring the best ways to group the data, time was a great constant variable
