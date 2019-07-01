@@ -25,7 +25,7 @@ Switching up an approach to creating tools, I found data journalism or data digg
 
 > Now that you’ve identified metrics to define your goal, you can start building your product and defining the backlog. Prioritize the effort to create your metrics in the initial release so that you can continually evaluate whether you've reached your goal. Once you've measured results, you can start building functionality in a hypothesis-driven way to experiment and iterate on ideas. After each feature release, evaluate the status of your results and decide whether to iterate on the product more or move on to another goal.
 
--> from this [DevBridge Article - Build the Right Product with Results Driven Development](https://www.devbridge.com/articles/build-the-right-product-with-results-driven-development/)
+-> from this [Build the Right Product with Results Driven Development](https://www.devbridge.com/articles/build-the-right-product-with-results-driven-development/)
 
 Another interesting view, a common cultural connotation in work places, [Gung-Hoism, Competition, Merit-based rewards and Work-volume](https://workplace.stackexchange.com/questions/14348/what-is-meant-by-results-oriented-development-team)
 
