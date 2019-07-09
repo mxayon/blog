@@ -3,14 +3,14 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-
+_*kernel panic*_
 
 <h3><a href="https://mxnkpl.com">MXNKPL.COM</a></h3>
-<p>Maximo Ayon Nakpil</p>
+
 
 <p>Intersectional Exploration Advocate</p>
 
-<p> A Travel Log for Designing, Constructing and Evolving. Documenting my ability to be _passionate enough to act a fool._
+<p> A Travel Log for Designing, Constructing and Evolving. A journey through the intersections and documenting evolution through tools.
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
 This blog is both a blog and a syllabus (byllogybus) of really cool lessons along the way. No idea too crazy, but this is a sneak-peak to them before an idea gets refined.
