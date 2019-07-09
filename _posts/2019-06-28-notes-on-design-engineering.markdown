@@ -1,5 +1,5 @@
 ---
-title: "Design Engineering"
+title: "Notes on Design Engineering"
 draft: false
 layout: post
 date: 2019-06-28 1:11
@@ -12,7 +12,7 @@ tag:
 star: true
 category: blog
 author: maximonakpil
-description: A tool repository for building cross-dimensional things.
+description: Design Inspiration.
 ---
 
 ## Design Bibles

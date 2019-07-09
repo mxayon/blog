@@ -10,9 +10,6 @@ layout: page
 
 <p>Intersectional Exploration Advocate</p>
 
-_*Goin' There, With Care.*_
-
-
 <p> A Travel Log for Designing, Constructing and Evolving. Documenting my ability to be _passionate enough to act a fool._
 A learning toolkit to share some resources and projects. Connecting the dots, correcting the fumbles and crafting excitement. </p>
 <p>
@@ -25,13 +22,14 @@ Much as how studying an atom has taught us about energy, I believe in respecting
 I found that growing through the discipline of engineering, was an invaluable way to utilize & structure my curiosity. I day dream with restructuring new solutions in the graphical user interface of my imagination. I'd like to one day make the ultimate work-engine dashboard. Motivated by blue skies thinking and learning from others.
 </p>
 <p>
-This is a journal of notes - Travel Logging, making a repository of inter-wingular connections and sharing learnings to others and future self.
+This is a journal of notes - Travel Logging, making a repository of
+<a href="https://en.wikipedia.org/wiki/Intertwingularity"> interwingular </a> connections and sharing learnings to others and future self.
 </p>
 <div class="side-by-side">
     <div class="toleft">
 		<p>
-			<li>Right Hand: Mechanical Pencil and Paper (Universal Skill Level)</li>
-			<li>Left Hand: AdobeCreativeSuite, FinalCutPro, Motion5</li>
+			<li>Right Hand: Mechanical Pencil and Paper (Just enough to ideate)</li>
+			<li>Left Hand: CreativeSuite, FinalCutPro</li>
 		Toolkit:
 			<li>HTML | CSS | JavaScript</li>
 			<li>GitHub | Jekyll</li>
