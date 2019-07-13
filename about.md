@@ -4,9 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 _*kernel panic*_
-
 <h3><a href="https://mxnkpl.com">MXNKPL.COM</a></h3>
+<br>
 
+<p> Think BIG, Go Beyond, Be Vulnerable.
+</p>
 
 <p>Intersectional Exploration Advocate</p>
 
