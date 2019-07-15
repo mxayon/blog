@@ -1,6 +1,6 @@
 # main text of home
 name: Maximo Nakpil
-bio: Cross-Dimensional Designer - Developer | Continuity Assembler
+bio: Developer
 
 # twitter summary info
 description:
@@ -54,7 +54,7 @@ email: mxnkpl@gmail.com
 authors:
     maximonakpil:
         name: Max Nakpil
-        bio: Mad Scientist, Continuity Assembler
+        bio: Developer
         external-image: true
         picture: https://i.ibb.co/xLm33LS/max11-ideal-pyramid.gif
         twitter: mxayon

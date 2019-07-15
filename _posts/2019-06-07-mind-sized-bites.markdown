@@ -1,6 +1,6 @@
 ---
 title: "Mind Sized Bites"
-draft: false
+draft: true
 layout: post
 date: 2019-06-07 11:11
 image: assets/images/inspectocat.png
@@ -189,4 +189,4 @@ Following these standards improve my craftsmanship each time.
 > Edward Tufte talks about how PowerPoint was used by NASA engineers in the events leading to the Space Shuttle Columbia disaster. The software style is designed to persuade rather than to inform people of technical details. Tufte's analysis of a NASA PowerPoint slide is included in the Columbia Accident Investigation Board’s report—including an engineering detail buried in small type on a crowded slide with six bullet points, that if presented in a regular engineering white paper, might have been noticed and the disaster prevented.
 [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)
 
-- I think the missing factor to persuasion is repetition. Continuity as an extension of a 2- dimensional design objective, only if the one "object" of mis-persuaded data could have been stretched on either screen time depth or repetition and variation of apperance on screen so that viewers wont deflect from it - aside from the data being too cramped.. 
+- I think the missing factor to persuasion is repetition. Continuity as an extension of a 2- dimensional design objective, only if the one "object" of mis-persuaded data could have been stretched on either screen time depth or repetition and variation of apperance on screen so that viewers wont deflect from it - aside from the data being too cramped..

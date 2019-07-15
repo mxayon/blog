@@ -1,6 +1,6 @@
 ---
 title: "Notes on Design Engineering"
-draft: false
+draft: true
 layout: post
 date: 2019-06-28 1:11
 image: https://i.ibb.co/0t1nYwS/isolated-gear.png

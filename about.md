@@ -7,18 +7,15 @@ layout: page
 <h3><a href="https://mxnkpl.com">MXNKPL.COM</a></h3>
 <br>
 
-<p> A Travel Log for Designing, Constructing and Evolving. A journey through the intersections and documenting evolution through tools.
-A learning toolkit to share some resources and projects.  </p>
+<p> A Travel Log for Constructing and Evolving. A journey through the intersections and documenting evolution through tools.
+</p>
 <p>
-
 This is a journal of notes - Travel Logging, making a repository of
 learnings to others and future self.
 </p>
 <div class="side-by-side">
     <div class="toleft">
 		<p>
-			<li>Right Hand: Mechanical Pencil and Paper (Just enough to ideate)</li>
-			<li>Left Hand: CreativeSuite, FinalCutPro</li>
 		Toolkit:
 			<li>HTML | CSS | JavaScript</li>
 			<li>GitHub | Jekyll</li>
