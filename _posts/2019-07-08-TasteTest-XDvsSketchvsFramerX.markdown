@@ -1,6 +1,6 @@
 ---
 title: "Taste Test: Adobe XD vs Sketch vs FramerX"
-draft: true
+draft: false
 layout: post
 date: 2019-07-08 11:11
 image: https://i.ibb.co/0t1nYwS/isolated-gear.png
@@ -12,7 +12,7 @@ tag:
 star: true
 category: blog
 author: maximonakpil
-description: Notes on trying out the different prototyping flavors!
+description: Notes on trying out the different prototyping flavors! (and for anyone curious to try)
 ---
 
 ## Adobe XD
