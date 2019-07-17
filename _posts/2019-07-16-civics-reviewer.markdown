@@ -22,10 +22,7 @@ The framers of the constitution escaped persecution, unfair taxation from a sing
 
 The constitution instantiates it's own freedom and self-governance with it's first three words "We The People".
 
-Immanuel Kant, who was an advocate for federalism, he said that "the problem of setting up a state can be solved even by a nation of devils" so long as they possess an appropriate constitution which pits opposing factions against each other with a system of checks and balances. In particular individual states required a federation as a safeguard against the possibility of war.
-
-[Federalism](https://en.wikipedia.org/wiki/Federalism#Immanuel_Kant)
-[Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
+Immanuel Kant, who was an advocate for federalism, said that "the problem of setting up a state can be solved even by a nation of devils" so long as they possess an appropriate constitution which pits opposing factions against each other with a system of checks and balances. In particular individual states required a federation as a safeguard against the possibility of war. - [Federalism](https://en.wikipedia.org/wiki/Federalism#Immanuel_Kant)
 
 Kant argued the sum of all objects, the empirical world, is a complex of appearances whose existence and connection occur only in our representations. Kant introduces the thing-in-itself as follows:
 
@@ -37,13 +34,18 @@ but only know its appearances, viz.,
 the way in which our senses are affected by this unknown something.
           — Prolegomena, § 32
 
+- [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
+
+
 As a newfound citizen, an ability to vote federally goes beyond personal interests. I gained a disposition in which I can now act as an enabled citizen knowing my rights and responsibilities. An essential component to developing a voice.
 
 "Taxation without representation" was what made the founding fathers write the declaration of independence, which is pretty much what it feels like living and working in a society where you cant vote. The constitution is what defines the government and establishes the basic rights of all people. Each amendment to the constitution is integrated in accordance of the governing power: "We the People".
 
 ## The Bill of Rights
+The first ten amendments to the constitution were established for our individual civil rights and liberties.
 
-First Amendment: Freedom of religion, freedom of speech and the press, the right to assemble, the right to petition government.
+First Amendment:
+Freedom of religion, freedom of speech and the press, the right to assemble, the right to petition government.
 
 Second Amendment: The right to form a militia and to keep and bear arms.
 
@@ -69,6 +71,12 @@ Nineteenth Amendment (1920): Women have the right to vote.
 
 Twenty-sixth Amendment (1971): U.S. citizens who are 18 years of age or older have the right to vote. (Previously, they had to be 21 years old.)
 
+
+## Political parties and their agendas
+![DemVsRep](https://live.staticflickr.com/2612/4029557427_1681d59af4_b.jpg)
+
+## How Bills Turn into Laws
+![Laws](https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/How_Bill_Becomes_Law.png)
 
 ***
 
