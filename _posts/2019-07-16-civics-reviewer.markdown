@@ -1,10 +1,10 @@
 ---
 title: "Civics Reviewer"
-draft: true
+draft: false
 layout: post
-date: 2019-06-28 11:11
-image: https://i.ibb.co/0t1nYwS/isolated-gear.png
-headerImage: false
+date: 2019-07-16 11:11
+image: https://staticshare.america.gov/uploads/2017/11/fedral_govt_feature.jpg
+headerImage: true
 tag:
 - civics
 - citizenship
@@ -14,6 +14,7 @@ category: blog
 author: maximonakpil
 description: An immigrant's guide to the Civics Test.
 ---
+_*Header Image take from this article from share america:*_ [What Does Federal Government Do?](https://share.america.gov/what-does-federal-government-do/)
 
 ## On being a citizen
 The road to getting a citizenship is a long and for some almost impossible journey.
