@@ -1,6 +1,6 @@
 ---
 title: "Ontology Engineering"
-draft: true
+draft: false
 layout: post
 date: 2019-06-28 11:11
 image: https://i.ibb.co/0t1nYwS/isolated-gear.png
@@ -12,7 +12,7 @@ tag:
 star: true
 category: blog
 author: maximonakpil
-description: A tool repository for building cross-dimensional things.
+description: Links on Ontology Engineering.
 ---
 
 ## NLG Pipeline
