@@ -7,11 +7,10 @@ layout: page
 <h3><a href="https://mxnkpl.com">MXNKPL.COM</a></h3>
 <br>
 
-<p> A Travel Log for Constructing and Evolving. A journey through the intersections and documenting evolution through tools.
+<p> A Travel Log for Constructing and Evolving. A journey through the intersections and documenting the steps.
 </p>
 <p>
-This is a journal of notes - Travel Logging, making a repository of
-learnings to others and future self.
+Travel Logging makes it possible for me to remind my future self and leave notes to share with others. Each thought evolves and improves over time.
 </p>
 <div class="side-by-side">
     <div class="toleft">
