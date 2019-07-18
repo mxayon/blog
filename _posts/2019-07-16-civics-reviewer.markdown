@@ -23,7 +23,7 @@ The framers of the constitution escaped persecution, unfair taxation from a sing
 
 The constitution instantiates it's own freedom and self-governance with it's first three words "We The People".
 
-Immanuel Kant, who was an advocate for federalism, said that "the problem of setting up a state can be solved even by a nation of devils" so long as they possess an appropriate constitution which pits opposing factions against each other with a system of checks and balances. In particular individual states required a federation as a safeguard against the possibility of war. - [Federalism](https://en.wikipedia.org/wiki/Federalism#Immanuel_Kant)
+Immanuel Kant, who was an advocate for federalism, said that "the problem of setting up a state can be solved even by a nation of devils" so long as they possess an appropriate constitution which pits opposing factions against each other with a system of checks and balances. In particular individual states required a federation as a safeguard against the possibility of war. - [Wiki: Federalism](https://en.wikipedia.org/wiki/Federalism#Immanuel_Kant)
 
 Kant argued the sum of all objects, the empirical world, is a complex of appearances whose existence and connection occur only in our representations. Kant introduces the thing-in-itself as follows:
 
@@ -35,7 +35,7 @@ but only know its appearances, viz.,
 the way in which our senses are affected by this unknown something.
           — Prolegomena, § 32
 
-- [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
+- [Wiki: Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 
 
 As a newfound citizen, an ability to vote federally goes beyond personal interests. I gained a disposition in which I can now act as an enabled citizen knowing my rights and responsibilities. An essential component to developing a voice.
