@@ -30,6 +30,7 @@ Travel Logging makes it possible for me to remind my future self and leave notes
     </div>
 </div>
 <ul>
-	<li><a href="https://mxnkpl.com">MXNKPL.COM</a></li>
-	<li><a href="https://gist.github.com/mxayon">Gists</a></li>
+	<li><a href="">MXNKPL.COM</a></li>
+	<li><a href="">Gists</a></li>
 </ul>
+[Max Photon Collection](https://mxnkpl.com)   |   [Mxayon Gists](https://gist.github.com/mxayon)
