@@ -32,9 +32,4 @@ In theory, it is used as the root to all the projects file structure going forwa
 
 
 
-***
-Created with [Sketch](https://www.sketch.com/)
-
-
-
 ---
