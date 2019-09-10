@@ -24,12 +24,14 @@ Even with planning with accessibility-first goals, this may lead me to go back t
 ### Tools
 
 During my last research efforts to implement a purely accessible web application, the tools I found were amazing from the developer community
- - a11y
- - contrast extension
+ - [a11y](https://a11yproject.com/)
+ - [Accessibility Plugins](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers)
 
  and voice over demonstrations with built in mac features.
 
+### To do's:
 
+In order to orient a better accessible application for designing the front-end, the css-grid holy-grail approach might not be ideal.
 
 
 
@@ -40,11 +42,6 @@ During my last research efforts to implement a purely accessible web application
 
 ***
 
-
-
-
-***
-Created with [Sketch](https://www.sketch.com/)
 
 
 
