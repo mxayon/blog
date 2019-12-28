@@ -1,6 +1,6 @@
 ---
 title: "Open World Assumptions"
-draft: false
+draft: true
 layout: post
 date: 2019-06-30 11:11
 image: https://i.ibb.co/Vq1kp2v/schrodingers-cat-image.png
